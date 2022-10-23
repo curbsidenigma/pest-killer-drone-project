@@ -23,6 +23,7 @@ El proyecto contiene tres carpetas que contienen la documentación en LaTeX ([``
 Dentro de la carpeta de documentación se encuentran los siguientes archivos:
 
 - El archivo [``main.tex``](documentation/main.tex) contiene el código de LaTeX para generar el PDF de documentación.
+- El archivo [``main.bib``](documentation/main.bib) contiene la bibliografía del documento (se emplea formato APA).
 - La carpeta [``build``](documentation/build) contiene el archivo [``main.pdf``](documentation/build/main.pdf) que corresponde al documento PDF de documentación.
 ### Simulación
 

@@ -2,10 +2,19 @@
 \usepackage[utf8]{inputenc}
 \usepackage[margin = 1in]{geometry}
 
+% Language packages
 \usepackage[spanish]{babel}
+\usepackage{csquotes}
 
 % Figure packages
 \usepackage{graphicx}
+
+% Reference packages
+\usepackage[
+    backend = biber,
+    style = apa,
+]{biblatex}
+\addbibresource{main.bib}
 
 \begin{document}
     \begin{titlepage}
@@ -38,7 +47,7 @@
     \footrule
 
     \section*{T\'itulo}
-    \subsection*{Subt\'itulo}
-        [Texto]
+        \subsection*{Subt\'itulo}
+        Esta es la documentación del proyecto en {\LaTeX}. Este es un ejemplo de cita en formato APA (\cite{tenorio-2018}).
 
 \end{document}
