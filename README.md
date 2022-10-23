@@ -2,9 +2,9 @@
 [![license](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE)
 [![license](https://img.shields.io/badge/readme%20style-standard-green)](LICENSE)
 
-Proyecto de Laboratorio Integral de Control Automático.
+Sistema de Control para la Eliminación de Pulgón Amarillo en Cultivos de Maíz por medio de un Dron Parrot Bebop 2.
 
-El proyecto consiste en el diseño y construcción de un controlador para el movimiento de un dron Parrot Bebop 2 en campos de cultivo de maíz, con la finalidad de eliminar una plaga de pulgón amarillo.
+Proyecto de [Laboratorio Integral de Control Automático](https://samp.itesm.mx/Materias/VistaPreliminarMateria?clave=MR3029&lang=ES#).
 
 ## Tabla de contenidos
 
