@@ -1,0 +1,123 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{tenorio-2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f76cdcd099fd3afaa54cb5e3a14dd93b}{%
+           family={Tenorio},
+           familyi={T\bibinitperiod},
+           given={Fermín},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de51c8f0f275c3a7b8ede1208c2846ea}{%
+           family={Juárez},
+           familyi={J\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60943390933028abeac54d00ed49c0c9}{%
+           family={Pérez},
+           familyi={P\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6abda29ff4dd446950fb464f9dedbe6}{%
+           family={Tenorio},
+           familyi={T\bibinitperiod},
+           given={León},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b780fdb33d14d387be6e67d8d4610448}
+      \strng{fullhash}{10a8ae68dda83937ae0e07a89aabeb3e}
+      \strng{bibnamehash}{10a8ae68dda83937ae0e07a89aabeb3e}
+      \strng{authorbibnamehash}{10a8ae68dda83937ae0e07a89aabeb3e}
+      \strng{authornamehash}{b780fdb33d14d387be6e67d8d4610448}
+      \strng{authorfullhash}{10a8ae68dda83937ae0e07a89aabeb3e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de Ingeniería Tecnológica}
+      \field{number}{6}
+      \field{title}{Dron detector de plagas en cultivos de maíz}
+      \field{volume}{2}
+      \field{year}{2018}
+      \field{pages}{8\bibrangedash 13}
+      \range{pages}{6}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{tenorio-2018}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f76cdcd099fd3afaa54cb5e3a14dd93b}{%
+           family={Tenorio},
+           familyi={T\bibinitperiod},
+           given={Fermín},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de51c8f0f275c3a7b8ede1208c2846ea}{%
+           family={Juárez},
+           familyi={J\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60943390933028abeac54d00ed49c0c9}{%
+           family={Pérez},
+           familyi={P\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6abda29ff4dd446950fb464f9dedbe6}{%
+           family={Tenorio},
+           familyi={T\bibinitperiod},
+           given={León},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b780fdb33d14d387be6e67d8d4610448}
+      \strng{fullhash}{10a8ae68dda83937ae0e07a89aabeb3e}
+      \strng{bibnamehash}{10a8ae68dda83937ae0e07a89aabeb3e}
+      \strng{authorbibnamehash}{10a8ae68dda83937ae0e07a89aabeb3e}
+      \strng{authornamehash}{b780fdb33d14d387be6e67d8d4610448}
+      \strng{authorfullhash}{10a8ae68dda83937ae0e07a89aabeb3e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista de Ingeniería Tecnológica}
+      \field{number}{6}
+      \field{title}{Dron detector de plagas en cultivos de maíz}
+      \field{volume}{2}
+      \field{year}{2018}
+      \field{pages}{8\bibrangedash 13}
+      \range{pages}{6}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
