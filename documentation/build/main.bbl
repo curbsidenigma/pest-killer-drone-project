@@ -19,103 +19,823 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global}
-    \entry{tenorio-2018}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=f76cdcd099fd3afaa54cb5e3a14dd93b}{%
-           family={Tenorio},
-           familyi={T\bibinitperiod},
-           given={Fermín},
-           giveni={F\bibinitperiod},
+    \entry{alvarez-2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a4f57301a21b259f65b3137245bf1580}{%
+           family={Álvarez-Gordillo},
+           familyi={Á\bibinithyphendelim G\bibinitperiod},
+           given={Guadalupe\bibnamedelimb {del}\bibnamedelima Carmen},
+           giveni={G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=de51c8f0f275c3a7b8ede1208c2846ea}{%
-           family={Juárez},
-           familyi={J\bibinitperiod},
-           given={Erik},
-           giveni={E\bibinitperiod},
+        {{un=0,uniquepart=base,hash=28b8b84c5aeb8070798c1fb62995cb65}{%
+           family={Araujo-Santana},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={María\bibnamedelima Raimunda},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=60943390933028abeac54d00ed49c0c9}{%
-           family={Pérez},
-           familyi={P\bibinitperiod},
-           given={Manuel},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b6abda29ff4dd446950fb464f9dedbe6}{%
-           family={Tenorio},
-           familyi={T\bibinitperiod},
-           given={León},
-           giveni={L\bibinitperiod},
+        {{un=0,uniquepart=base,hash=23b8913d08f0f63b25f695532cef00f3}{%
+           family={Arellano-Gálvez},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={María\bibnamedelimb {del}\bibnamedelima Carmen},
+           giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{b780fdb33d14d387be6e67d8d4610448}
-      \strng{fullhash}{10a8ae68dda83937ae0e07a89aabeb3e}
-      \strng{bibnamehash}{10a8ae68dda83937ae0e07a89aabeb3e}
-      \strng{authorbibnamehash}{10a8ae68dda83937ae0e07a89aabeb3e}
-      \strng{authornamehash}{b780fdb33d14d387be6e67d8d4610448}
-      \strng{authorfullhash}{10a8ae68dda83937ae0e07a89aabeb3e}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \strng{namehash}{3b111ede52389347045dab6fc1b13a86}
+      \strng{fullhash}{03c7f71c4105932c89dfcc44b1b35811}
+      \strng{bibnamehash}{03c7f71c4105932c89dfcc44b1b35811}
+      \strng{authorbibnamehash}{03c7f71c4105932c89dfcc44b1b35811}
+      \strng{authornamehash}{3b111ede52389347045dab6fc1b13a86}
+      \strng{authorfullhash}{03c7f71c4105932c89dfcc44b1b35811}
+      \field{sortinit}{Á}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Revista de Ingeniería Tecnológica}
-      \field{number}{6}
-      \field{title}{Dron detector de plagas en cultivos de maíz}
-      \field{volume}{2}
+      \field{journaltitle}{Revista de Alimentación Contemporánea y Desarrollo Regional}
+      \field{number}{52}
+      \field{title}{Alimentación y salud ante el cambio climático en la meseta comiteca en Chiapas, México}
+      \field{volume}{28}
       \field{year}{2018}
-      \field{pages}{8\bibrangedash 13}
-      \range{pages}{6}
+      \verb{doi}
+      \verb 10.24836/es.v28i52.536
+      \endverb
+    \endentry
+    \entry{ayamga-2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bece97109ef9a188aa867d045f18ad42}{%
+           family={Ayamga},
+           familyi={A\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7b70bbecb78639ba80fa62b5339a83a}{%
+           family={Akaba},
+           familyi={A\bibinitperiod},
+           given={Selorm},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5004c0e31a8b3fe8fb0abac32b9b120a}{%
+           family={Nyaaba},
+           familyi={N\bibinitperiod},
+           given={Albert\bibnamedelima Apotele},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c87eb611e5b871c0f0884a8495969611}
+      \strng{fullhash}{d4541acb7d42258b1dbe8daa0fc54f18}
+      \strng{bibnamehash}{d4541acb7d42258b1dbe8daa0fc54f18}
+      \strng{authorbibnamehash}{d4541acb7d42258b1dbe8daa0fc54f18}
+      \strng{authornamehash}{c87eb611e5b871c0f0884a8495969611}
+      \strng{authorfullhash}{d4541acb7d42258b1dbe8daa0fc54f18}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Technol. Forecast. Soc. Change}
+      \field{number}{120677}
+      \field{title}{Multifaceted applicability of drones: a review}
+      \field{volume}{167}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.techfore.2021.120677
+      \endverb
+    \endentry
+    \entry{liu-2020}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=85c089c8214528c9323c49e380b773c7}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c359b26e42dce14977aa3e2a9d7c3f6}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xiaoyuan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c0680f90ff1fc49345832d1f5ca90a8}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab7a8eece5d10371a4f667cdb136b2b5}{%
+           family={Hancke},
+           familyi={H\bibinitperiod},
+           given={Gerhard\bibnamedelima Petrus},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31615f6d2537ca85fe921b8481ca7b27}{%
+           family={Abu-Mahfouz},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={Adnan\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc71aae4264054b9e5aed3ac5c7d0d46}
+      \strng{fullhash}{e4226f06f1019c2887b330e4926da887}
+      \strng{bibnamehash}{e4226f06f1019c2887b330e4926da887}
+      \strng{authorbibnamehash}{e4226f06f1019c2887b330e4926da887}
+      \strng{authornamehash}{cc71aae4264054b9e5aed3ac5c7d0d46}
+      \strng{authorfullhash}{e4226f06f1019c2887b330e4926da887}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Trans. Industr. Inform.}
+      \field{number}{6}
+      \field{title}{From Industry 4.0 to Agriculture 4.0: Current Status, Enabling Technologies, and Research Challenges}
+      \field{volume}{17}
+      \field{year}{2021}
+      \field{pages}{4322\bibrangedash 4334}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/TII.2020.3003910
+      \endverb
+    \endentry
+    \entry{negrete-2018}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a119590839cd5a22a372529237ac099b}{%
+           family={Negrete},
+           familyi={N\bibinitperiod},
+           given={Jaime\bibnamedelima Cuauhtemoc},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8309698e5e639528c1033d084e0fa921}{%
+           family={Kriuskova},
+           familyi={K\bibinitperiod},
+           given={Eugenio\bibnamedelima Romantchik},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93f412d07bb94fc11fca86c977e05e7f}{%
+           family={Lopez-Canteñs},
+           familyi={L\bibinithyphendelim C\bibinitperiod},
+           given={Gilberto\bibnamedelimb {de}\bibnamedelima Jesus},
+           giveni={G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96ab8dc4e0c813ed60af932edc512085}{%
+           family={Zuñiga-Avila},
+           familyi={Z\bibinithyphendelim A\bibinitperiod},
+           given={Christian\bibnamedelima Israel},
+           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0307e871eba4f86bc94e77718d49687b}{%
+           family={Lopez-Hernandez},
+           familyi={L\bibinithyphendelim H\bibinitperiod},
+           given={Gamaliel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b3b62bdc86d1cfa28bbddaf9916cbe1c}
+      \strng{fullhash}{d7cc8e270c3f3d1a782382957c6fa762}
+      \strng{bibnamehash}{d7cc8e270c3f3d1a782382957c6fa762}
+      \strng{authorbibnamehash}{d7cc8e270c3f3d1a782382957c6fa762}
+      \strng{authornamehash}{b3b62bdc86d1cfa28bbddaf9916cbe1c}
+      \strng{authorfullhash}{d7cc8e270c3f3d1a782382957c6fa762}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Hortic. Sci.}
+      \field{number}{6}
+      \field{title}{Arduino Board in the Automation of Agriculture in Mexico, A Review}
+      \field{volume}{8}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.5376/ijh.2018.08.0006
+      \endverb
+    \endentry
+    \entry{nouacer-2020}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=e7524873881aa8af619d353680578103}{%
+           family={Nouacer},
+           familyi={N\bibinitperiod},
+           given={Réda},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d1b07bfec2280c72080035118b7b247}{%
+           family={Hussein},
+           familyi={H\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=727aeeaf93fcac546a5299d89a30233d}{%
+           family={Espinoza},
+           familyi={E\bibinitperiod},
+           given={Huascar},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56f29db9e73b800153f0587e0312a4d6}{%
+           family={Ouhammou},
+           familyi={O\bibinitperiod},
+           given={Yassine},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77a2f48bf938c3b6bee103a9a7d3c557}{%
+           family={Ladeira},
+           familyi={L\bibinitperiod},
+           given={Matheus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a7026e9160be3d64d6c6933bb86be8a}{%
+           family={Castiñeira},
+           familyi={C\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{075649812f9133df40d80c5f94936358}
+      \strng{fullhash}{44bc5914b97bed382384f706e6f40535}
+      \strng{bibnamehash}{44bc5914b97bed382384f706e6f40535}
+      \strng{authorbibnamehash}{44bc5914b97bed382384f706e6f40535}
+      \strng{authornamehash}{075649812f9133df40d80c5f94936358}
+      \strng{authorfullhash}{44bc5914b97bed382384f706e6f40535}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Microprocess. Microsyst.}
+      \field{number}{103142}
+      \field{title}{Towards a framework of key technologies for drones}
+      \field{volume}{77}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.micpro.2020.103142
+      \endverb
+    \endentry
+    \entry{ren-2020}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1953281be29ecbcecd816fb251bbb6fe}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db693e4deeffe094eec231b42132bd83}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Rongde},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84f5cba9612d176fd19286b3966d9c97}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Wanlin},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce74f087939ffc241a9128c356995c88}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Xinfeng},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=853f741530738f48a9a55e3230f70136}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Limeng},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8938d0386d9c21c624abc39813c6be56}
+      \strng{fullhash}{9e173962edea419722b657da4474e2b1}
+      \strng{bibnamehash}{9e173962edea419722b657da4474e2b1}
+      \strng{authorbibnamehash}{9e173962edea419722b657da4474e2b1}
+      \strng{authornamehash}{8938d0386d9c21c624abc39813c6be56}
+      \strng{authorfullhash}{9e173962edea419722b657da4474e2b1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geotech. Geol. Eng.}
+      \field{number}{052041}
+      \field{title}{Application and Development of New Drones in Agriculture}
+      \field{volume}{440}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 3}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1088/1755-1315/440/5/052041
+      \endverb
+    \endentry
+    \entry{xing-2022}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=30877042e1b1581f5e43eba783a2bfa5}{%
+           family={Xing},
+           familyi={X\bibinitperiod},
+           given={Shuli},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90aafb7bb527089c67e83dda5d8fcbe1}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Hyo\bibnamedelima Jong},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \strng{fullhash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \strng{bibnamehash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \strng{authorbibnamehash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \strng{authornamehash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \strng{authorfullhash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comput. Electron. Agric.}
+      \field{number}{107144}
+      \field{title}{Crop pests and diseases recognition using DANet with TLDP}
+      \field{volume}{199}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1016/j.compag.2022.107144
+      \endverb
+    \endentry
+    \entry{yaacoub-2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=20d58465e7b1b7a63cd7b89457718854}{%
+           family={Yaacoub},
+           familyi={Y\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f52ef3286a0061750696fef217884d54}{%
+           family={Noura},
+           familyi={N\bibinitperiod},
+           given={Hassan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=081b1379afceeca770566cf8b8121c9e}{%
+           family={Salman},
+           familyi={S\bibinitperiod},
+           given={Ola},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51b6bb83d47f4294f0fd400e937405da}{%
+           family={Chehab},
+           familyi={C\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{48dbf057639e23330dfc7c48d4c12763}
+      \strng{fullhash}{ff548b505bcb3f1709912523ba54754d}
+      \strng{bibnamehash}{ff548b505bcb3f1709912523ba54754d}
+      \strng{authorbibnamehash}{ff548b505bcb3f1709912523ba54754d}
+      \strng{authornamehash}{48dbf057639e23330dfc7c48d4c12763}
+      \strng{authorfullhash}{ff548b505bcb3f1709912523ba54754d}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Internet Things}
+      \field{number}{100218}
+      \field{title}{Security analysis of drones systems: Attacks, limitations, and recommendations}
+      \field{volume}{11}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 39}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1016/j.iot.2020.100218
+      \endverb
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global}
-    \entry{tenorio-2018}{article}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=f76cdcd099fd3afaa54cb5e3a14dd93b}{%
-           family={Tenorio},
-           familyi={T\bibinitperiod},
-           given={Fermín},
-           giveni={F\bibinitperiod},
+    \entry{alvarez-2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a4f57301a21b259f65b3137245bf1580}{%
+           family={Álvarez-Gordillo},
+           familyi={Á\bibinithyphendelim G\bibinitperiod},
+           given={Guadalupe\bibnamedelimb {del}\bibnamedelima Carmen},
+           giveni={G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=de51c8f0f275c3a7b8ede1208c2846ea}{%
-           family={Juárez},
-           familyi={J\bibinitperiod},
-           given={Erik},
-           giveni={E\bibinitperiod},
+        {{un=0,uniquepart=base,hash=28b8b84c5aeb8070798c1fb62995cb65}{%
+           family={Araujo-Santana},
+           familyi={A\bibinithyphendelim S\bibinitperiod},
+           given={María\bibnamedelima Raimunda},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=60943390933028abeac54d00ed49c0c9}{%
-           family={Pérez},
-           familyi={P\bibinitperiod},
-           given={Manuel},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b6abda29ff4dd446950fb464f9dedbe6}{%
-           family={Tenorio},
-           familyi={T\bibinitperiod},
-           given={León},
-           giveni={L\bibinitperiod},
+        {{un=0,uniquepart=base,hash=23b8913d08f0f63b25f695532cef00f3}{%
+           family={Arellano-Gálvez},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={María\bibnamedelimb {del}\bibnamedelima Carmen},
+           giveni={M\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{b780fdb33d14d387be6e67d8d4610448}
-      \strng{fullhash}{10a8ae68dda83937ae0e07a89aabeb3e}
-      \strng{bibnamehash}{10a8ae68dda83937ae0e07a89aabeb3e}
-      \strng{authorbibnamehash}{10a8ae68dda83937ae0e07a89aabeb3e}
-      \strng{authornamehash}{b780fdb33d14d387be6e67d8d4610448}
-      \strng{authorfullhash}{10a8ae68dda83937ae0e07a89aabeb3e}
-      \field{sortinit}{T}
-      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \strng{namehash}{3b111ede52389347045dab6fc1b13a86}
+      \strng{fullhash}{03c7f71c4105932c89dfcc44b1b35811}
+      \strng{bibnamehash}{03c7f71c4105932c89dfcc44b1b35811}
+      \strng{authorbibnamehash}{03c7f71c4105932c89dfcc44b1b35811}
+      \strng{authornamehash}{3b111ede52389347045dab6fc1b13a86}
+      \strng{authorfullhash}{03c7f71c4105932c89dfcc44b1b35811}
+      \field{sortinit}{Á}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Revista de Ingeniería Tecnológica}
-      \field{number}{6}
-      \field{title}{Dron detector de plagas en cultivos de maíz}
-      \field{volume}{2}
+      \field{journaltitle}{Revista de Alimentación Contemporánea y Desarrollo Regional}
+      \field{number}{52}
+      \field{title}{Alimentación y salud ante el cambio climático en la meseta comiteca en Chiapas, México}
+      \field{volume}{28}
       \field{year}{2018}
-      \field{pages}{8\bibrangedash 13}
-      \range{pages}{6}
+      \verb{doi}
+      \verb 10.24836/es.v28i52.536
+      \endverb
+    \endentry
+    \entry{ayamga-2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bece97109ef9a188aa867d045f18ad42}{%
+           family={Ayamga},
+           familyi={A\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7b70bbecb78639ba80fa62b5339a83a}{%
+           family={Akaba},
+           familyi={A\bibinitperiod},
+           given={Selorm},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5004c0e31a8b3fe8fb0abac32b9b120a}{%
+           family={Nyaaba},
+           familyi={N\bibinitperiod},
+           given={Albert\bibnamedelima Apotele},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c87eb611e5b871c0f0884a8495969611}
+      \strng{fullhash}{d4541acb7d42258b1dbe8daa0fc54f18}
+      \strng{bibnamehash}{d4541acb7d42258b1dbe8daa0fc54f18}
+      \strng{authorbibnamehash}{d4541acb7d42258b1dbe8daa0fc54f18}
+      \strng{authornamehash}{c87eb611e5b871c0f0884a8495969611}
+      \strng{authorfullhash}{d4541acb7d42258b1dbe8daa0fc54f18}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Technol. Forecast. Soc. Change}
+      \field{number}{120677}
+      \field{title}{Multifaceted applicability of drones: a review}
+      \field{volume}{167}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1016/j.techfore.2021.120677
+      \endverb
+    \endentry
+    \entry{liu-2020}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=85c089c8214528c9323c49e380b773c7}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ye},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c359b26e42dce14977aa3e2a9d7c3f6}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xiaoyuan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c0680f90ff1fc49345832d1f5ca90a8}{%
+           family={Shu},
+           familyi={S\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab7a8eece5d10371a4f667cdb136b2b5}{%
+           family={Hancke},
+           familyi={H\bibinitperiod},
+           given={Gerhard\bibnamedelima Petrus},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31615f6d2537ca85fe921b8481ca7b27}{%
+           family={Abu-Mahfouz},
+           familyi={A\bibinithyphendelim M\bibinitperiod},
+           given={Adnan\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc71aae4264054b9e5aed3ac5c7d0d46}
+      \strng{fullhash}{e4226f06f1019c2887b330e4926da887}
+      \strng{bibnamehash}{e4226f06f1019c2887b330e4926da887}
+      \strng{authorbibnamehash}{e4226f06f1019c2887b330e4926da887}
+      \strng{authornamehash}{cc71aae4264054b9e5aed3ac5c7d0d46}
+      \strng{authorfullhash}{e4226f06f1019c2887b330e4926da887}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Trans. Industr. Inform.}
+      \field{number}{6}
+      \field{title}{From Industry 4.0 to Agriculture 4.0: Current Status, Enabling Technologies, and Research Challenges}
+      \field{volume}{17}
+      \field{year}{2021}
+      \field{pages}{4322\bibrangedash 4334}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/TII.2020.3003910
+      \endverb
+    \endentry
+    \entry{negrete-2018}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a119590839cd5a22a372529237ac099b}{%
+           family={Negrete},
+           familyi={N\bibinitperiod},
+           given={Jaime\bibnamedelima Cuauhtemoc},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8309698e5e639528c1033d084e0fa921}{%
+           family={Kriuskova},
+           familyi={K\bibinitperiod},
+           given={Eugenio\bibnamedelima Romantchik},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93f412d07bb94fc11fca86c977e05e7f}{%
+           family={Lopez-Canteñs},
+           familyi={L\bibinithyphendelim C\bibinitperiod},
+           given={Gilberto\bibnamedelimb {de}\bibnamedelima Jesus},
+           giveni={G\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96ab8dc4e0c813ed60af932edc512085}{%
+           family={Zuñiga-Avila},
+           familyi={Z\bibinithyphendelim A\bibinitperiod},
+           given={Christian\bibnamedelima Israel},
+           giveni={C\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0307e871eba4f86bc94e77718d49687b}{%
+           family={Lopez-Hernandez},
+           familyi={L\bibinithyphendelim H\bibinitperiod},
+           given={Gamaliel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b3b62bdc86d1cfa28bbddaf9916cbe1c}
+      \strng{fullhash}{d7cc8e270c3f3d1a782382957c6fa762}
+      \strng{bibnamehash}{d7cc8e270c3f3d1a782382957c6fa762}
+      \strng{authorbibnamehash}{d7cc8e270c3f3d1a782382957c6fa762}
+      \strng{authornamehash}{b3b62bdc86d1cfa28bbddaf9916cbe1c}
+      \strng{authorfullhash}{d7cc8e270c3f3d1a782382957c6fa762}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Hortic. Sci.}
+      \field{number}{6}
+      \field{title}{Arduino Board in the Automation of Agriculture in Mexico, A Review}
+      \field{volume}{8}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.5376/ijh.2018.08.0006
+      \endverb
+    \endentry
+    \entry{nouacer-2020}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=e7524873881aa8af619d353680578103}{%
+           family={Nouacer},
+           familyi={N\bibinitperiod},
+           given={Réda},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d1b07bfec2280c72080035118b7b247}{%
+           family={Hussein},
+           familyi={H\bibinitperiod},
+           given={Mahmoud},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=727aeeaf93fcac546a5299d89a30233d}{%
+           family={Espinoza},
+           familyi={E\bibinitperiod},
+           given={Huascar},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56f29db9e73b800153f0587e0312a4d6}{%
+           family={Ouhammou},
+           familyi={O\bibinitperiod},
+           given={Yassine},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=77a2f48bf938c3b6bee103a9a7d3c557}{%
+           family={Ladeira},
+           familyi={L\bibinitperiod},
+           given={Matheus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a7026e9160be3d64d6c6933bb86be8a}{%
+           family={Castiñeira},
+           familyi={C\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{075649812f9133df40d80c5f94936358}
+      \strng{fullhash}{44bc5914b97bed382384f706e6f40535}
+      \strng{bibnamehash}{44bc5914b97bed382384f706e6f40535}
+      \strng{authorbibnamehash}{44bc5914b97bed382384f706e6f40535}
+      \strng{authornamehash}{075649812f9133df40d80c5f94936358}
+      \strng{authorfullhash}{44bc5914b97bed382384f706e6f40535}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Microprocess. Microsyst.}
+      \field{number}{103142}
+      \field{title}{Towards a framework of key technologies for drones}
+      \field{volume}{77}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.micpro.2020.103142
+      \endverb
+    \endentry
+    \entry{ren-2020}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1953281be29ecbcecd816fb251bbb6fe}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db693e4deeffe094eec231b42132bd83}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Rongde},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84f5cba9612d176fd19286b3966d9c97}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Wanlin},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce74f087939ffc241a9128c356995c88}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Xinfeng},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=853f741530738f48a9a55e3230f70136}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Limeng},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8938d0386d9c21c624abc39813c6be56}
+      \strng{fullhash}{9e173962edea419722b657da4474e2b1}
+      \strng{bibnamehash}{9e173962edea419722b657da4474e2b1}
+      \strng{authorbibnamehash}{9e173962edea419722b657da4474e2b1}
+      \strng{authornamehash}{8938d0386d9c21c624abc39813c6be56}
+      \strng{authorfullhash}{9e173962edea419722b657da4474e2b1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Geotech. Geol. Eng.}
+      \field{number}{052041}
+      \field{title}{Application and Development of New Drones in Agriculture}
+      \field{volume}{440}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 3}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1088/1755-1315/440/5/052041
+      \endverb
+    \endentry
+    \entry{xing-2022}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=30877042e1b1581f5e43eba783a2bfa5}{%
+           family={Xing},
+           familyi={X\bibinitperiod},
+           given={Shuli},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=90aafb7bb527089c67e83dda5d8fcbe1}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Hyo\bibnamedelima Jong},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \strng{fullhash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \strng{bibnamehash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \strng{authorbibnamehash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \strng{authornamehash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \strng{authorfullhash}{1ff09b63c5d5269b41b58fe239e0a3d4}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Comput. Electron. Agric.}
+      \field{number}{107144}
+      \field{title}{Crop pests and diseases recognition using DANet with TLDP}
+      \field{volume}{199}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1016/j.compag.2022.107144
+      \endverb
+    \endentry
+    \entry{yaacoub-2020}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=20d58465e7b1b7a63cd7b89457718854}{%
+           family={Yaacoub},
+           familyi={Y\bibinitperiod},
+           given={Jean-Paul},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f52ef3286a0061750696fef217884d54}{%
+           family={Noura},
+           familyi={N\bibinitperiod},
+           given={Hassan},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=081b1379afceeca770566cf8b8121c9e}{%
+           family={Salman},
+           familyi={S\bibinitperiod},
+           given={Ola},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=51b6bb83d47f4294f0fd400e937405da}{%
+           family={Chehab},
+           familyi={C\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{48dbf057639e23330dfc7c48d4c12763}
+      \strng{fullhash}{ff548b505bcb3f1709912523ba54754d}
+      \strng{bibnamehash}{ff548b505bcb3f1709912523ba54754d}
+      \strng{authorbibnamehash}{ff548b505bcb3f1709912523ba54754d}
+      \strng{authornamehash}{48dbf057639e23330dfc7c48d4c12763}
+      \strng{authorfullhash}{ff548b505bcb3f1709912523ba54754d}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Internet Things}
+      \field{number}{100218}
+      \field{title}{Security analysis of drones systems: Attacks, limitations, and recommendations}
+      \field{volume}{11}
+      \field{year}{2020}
+      \field{pages}{1\bibrangedash 39}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1016/j.iot.2020.100218
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

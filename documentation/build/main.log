@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.10)  22 OCT 2022 20:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.10)  29 NOV 2022 23:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -571,16 +571,21 @@ Package pdftex.def Info: pictures/itesm-logo.png  used on input line 22.
 
 {C:/Users/Gerardo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./pictures/itesm-logo.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 74.
+(Font)              <10.95> on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 74.
+(Font)              <8> on input line 71.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 74.
+(Font)              <6> on input line 71.
 File: pictures/itesm-logo.png Graphic file (type png)
 <use pictures/itesm-logo.png>
-Package pdftex.def Info: pictures/itesm-logo.png  used on input line 78.
+Package pdftex.def Info: pictures/itesm-logo.png  used on input line 71.
 (pdftex.def)             Requested size: 72.26999pt x 19.01521pt.
  [1]
+File: pictures/itesm-logo.png Graphic file (type png)
+<use pictures/itesm-logo.png>
+Package pdftex.def Info: pictures/itesm-logo.png  used on input line 73.
+(pdftex.def)             Requested size: 72.26999pt x 19.01521pt.
+ [2]
 This exam contains 0 questions with 0 parts, 0 subparts, and 0 subsubparts.
 (d:\Gerardo\Documents\Control\pest-killer-drone-project\documentation\build\main.aux
 LaTeX Info: Redefining \sptext on input line 9.
@@ -592,17 +597,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13424 strings out of 478338
- 248836 string characters out of 2845135
- 1064400 words of memory out of 3000000
- 31745 multiletter control sequences out of 15000+600000
- 475118 words of font info for 47 fonts, out of 8000000 for 9000
+ 13472 strings out of 478338
+ 250269 string characters out of 2845135
+ 1073843 words of memory out of 3000000
+ 31793 multiletter control sequences out of 15000+600000
+ 474513 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,14n,68p,746b,2811s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on d:\Gerardo\Documents\Control\pest-killer-drone-project\documentation\build\main.pdf (2 pages, 176356 bytes).
+ 60i,14n,68p,1059b,2811s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on d:\Gerardo\Documents\Control\pest-killer-drone-project\documentation\build\main.pdf (3 pages, 184603 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
+ 45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
