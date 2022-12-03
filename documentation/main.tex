@@ -87,7 +87,303 @@
         Esta especie fue identificada en M\'exico, oficialmente, en febrero del 2014, en los municipios de Jim\'enez, R\'io Bravo y San Fernando en el estado de Tamaulipas. Por ello, en 2016, se introdujo el uso de agentes de control biol\'ogico por inducci\'on o incremento, liberando en campo insectos de la familia \textit{Coccinelidae} (catarinas) y \textit{Chrysopidae} (crisopas o le\'on de los \'afidos), con el fin de reforzar el control biol\'ogico natural y prevenir la explosi\'on poblacional de la plaga en campo. En 2017, se implement\'o una estrategia operativa, bajo un esquema de Manejo Integrado de Plagas (MIP) con la finalidad de eliminar esta plaga en diversos estados de la República, incluido Puebla (\cite{senasica-2018}). Identificar las características visuales específicas del insecto permite diseñar algoritmos de identificación por medio de inteligencia artificial.
 
     \section{Metodolog\'ia}\label{sec3}
+        \subsection{Modelo Matem\'atico del Quadc\'optero}\label{sec3.1}
+        La estructura del quadc\'optero se presenta en la Figura \ref{fig:drone-model}, incluyendo las velocidades angulares, torques y fuerzas accionadas por los cuatro motores. Por cuestiones de simplificaci\'on, se enumeran del 1 al 4.
 
+        \begin{figure}[ht]
+            \centering
+            \includegraphics[width = 14cm]{pictures/drone-model.png}
+            \caption{Diagrama de cuerpo libre de un quadc\'optero.}
+            \label{fig:drone-model}
+        \end{figure}
+
+        La posición lineal absoluta del quadc\'optero se define como $\boldsymbol{\xi}$ y se mide a partir de los ejes $x$, $y$ y $z$. Posterior a ello se define la posici\'on angular en el marco inercial con un vector $\boldsymbol{\eta}$ compuesto por tres \'angulos de Euler $\phi$ (roll), $\theta$ (pitch) y $\psi$ (yaw). Roll determina la rotación con respecto al eje $x$, pitch con respecto al eje $y$ y yaw con respecto al eje $z$. El vector $\boldsymbol{q}$ contiene los vectores de las posiciones lineales y angulares.
+    
+        \begin{align}
+            \boldsymbol{\xi} &= 
+            \left[{
+                \begin{array}{c}
+                    x \\
+                    y \\
+                    z \\
+                \end{array} 
+            }\right],
+            &\quad
+            \boldsymbol{\eta} &= 
+            \left[{
+                \begin{array}{c}
+                    \phi \\
+                    \theta \\
+                    \phi \\
+                \end{array} 
+            }\right],
+            &\quad
+            \boldsymbol{q} &=
+            \left[{
+                \begin{array}{c}
+                    \boldsymbol{\xi} \\
+                    \boldsymbol{\eta} \\
+                \end{array} 
+            }\right].
+        \end{align}
+
+        El origen del marco de referencia del cuerpo es el centro de masa del quadc\'optero. En el marco de referencia del cuerpo, las velocidades lineales se determinan por $\boldsymbol{V}_B$ y las velocidades angulares por $\boldsymbol{\nu}$.
+
+        \begin{align}
+            \boldsymbol{V}_B &= 
+            \left[{
+                \begin{array}{c}
+                    v_{x,B} \\
+                    v_{y,B} \\
+                    v_{z,B} \\
+                \end{array} 
+            }\right],
+            &\quad
+            \boldsymbol{\nu} &= 
+            \left[{
+                \begin{array}{c}
+                    p \\
+                    q \\
+                    r \\
+                \end{array} 
+            }\right].
+        \end{align}
+
+        La matriz de rotación del marco de referencia del cuerpo al inercial está dada por:
+
+        \begin{equation}
+            \boldsymbol{R} = 
+            \left[{
+                \begin{array}{ccc}
+                    \cos{\psi}\cos{\theta}  & 
+                    \cos{\psi}\sin{\theta}\sin{\phi} - \sin{\psi}\cos{\phi}    &
+                    \cos{\psi}\sin{\theta}\cos{\phi} + \sin{\psi}\sin{\phi}    \\
+                    \sin{\psi}\cos{\theta}  & 
+                    \sin{\psi}\sin{\theta}\sin{\phi} - \cos{\psi}\cos{\phi}    &
+                    \sin{\psi}\sin{\theta}\cos{\phi} + \cos{\psi}\sin{\phi}    \\
+                    -\sin{\theta}           &
+                    \cos{\theta}\sin{\phi}  &
+                    \cos{\theta}\cos{\phi}  \\
+                \end{array} 
+            }\right]
+        \end{equation}
+
+        Se puede verificar que la matriz de rotación $\boldsymbol{R}$ es ortogonal teniendo que $\boldsymbol{R}^{-1} = \boldsymbol{R}^{\mathrm{T}}$, que corresponde al proceso inverso (matriz de rotación del marco de referencia inercial al del cuerpo). Por otra parte, la matriz de transformación de las velocidades angulares del marco de referencia inercial al del cuerpo se denota como $\boldsymbol{W}_{\eta}$. De la misma manera, la inversa de dicha matriz corresponde al proceso inverso. Por consiguiente, se obtiene que
+    
+        \begin{align}
+            \begin{aligned}
+                \boldsymbol{\dot{\eta}} &=
+                \boldsymbol{W}_{\eta}^{-1}\boldsymbol{\nu},
+                &\quad
+                \left[{
+                    \begin{array}{c}
+                        \dot{\phi} \\
+                        \dot{\theta} \\
+                        \dot{\psi} \\
+                    \end{array} 
+                }\right] &= 
+                \left[{
+                    \begin{array}{ccc}
+                        1 & \sin{\phi}\tan{\theta} & \cos{\phi}\tan{\theta}     \\
+                        0 & \cos{\phi} & -\sin{\phi} \\
+                        0 & \sin{\phi}/\cos{\theta} & \cos{\phi}/\cos{\theta} \\
+                    \end{array} 
+                }\right]
+                \left[{
+                    \begin{array}{c}
+                        p \\
+                        q \\
+                        r \\
+                    \end{array} 
+                }\right],
+                \\
+                \boldsymbol{\nu} &=
+                \boldsymbol{W}_{\eta}\boldsymbol{\dot{\eta}},
+                &\quad
+                \left[{
+                    \begin{array}{c}
+                        p \\
+                        q \\
+                        r \\
+                    \end{array} 
+                }\right] &= 
+                \left[{
+                    \begin{array}{ccc}
+                        1 & 0 & -\sin{\theta}  \\
+                        0 & \cos{\phi} & \cos{\theta}\sin{\phi} \\
+                        0 & -\sin{\phi} & \cos{\theta}\cos{\phi} \\
+                    \end{array} 
+                }\right]
+                \left[{
+                    \begin{array}{c}
+                        \dot{\phi} \\
+                        \dot{\theta} \\
+                        \dot{\psi} \\
+                    \end{array} 
+                }\right].
+            \end{aligned}
+        \end{align}
+
+        La matriz $\boldsymbol{W}_{\eta}$ es invertible solo si $\theta\neq(2k-1)\phi/2,\;(k\in\mathbb{Z})$. Luego, debido a que se asume que el quadc\'optero tiene estructura sim\'etrica con los cuatro brazos alineados con el cuerpo en los ejes $x$ y $y$, el momento de inercia es la matriz diagonal $\boldsymbol{I}$ donde $I_{xx} = I_{yy}$, entonces
+
+        \begin{equation}
+            \boldsymbol{I} = 
+            \left[{
+                \begin{array}{ccc}
+                    I_{xx} & 0 & 0 \\
+                    0 & I_{yy} & 0 \\
+                    0 & 0 & I_{zz} \\
+                \end{array} 
+            }\right].
+        \end{equation}
+
+        La velocidad angular del motor $i$, denotada como $\omega_i$, crea una fuerza $f_i$ en la direcci\'on del eje del motor. La velocidad angular y aceleraci\'on del rotor tambi\'en crean un torque $\tau_{M_i}$ alrededor del eje del motor, teniendo que
+        \begin{align}
+            f_i &= k\omega_i^2, & \tau_{M_i} &= b\omega_i^2 + I_M\dot{\omega}_i,
+        \end{align}
+        donde $k$ es la constante de elevaci\'on, $b$ es la constante de arrastre y $I_M$ es el momento de inercia del motor. En la mayor\'ia de los casos el efecto de $\dot{\omega}$ se considera pequeño y por ende se omite.
+
+        Las fuerzas combinadas de los motores crean la fuerza de empuje $T$ en direcci\'on del eje $z$ del cuerpo. Igualmente, el torque total del cuerpo $\boldsymbol{\tau}_B$ se forma con los torques de cada \'angulo de Euler, siendo $\tau_{\phi}$, $\tau_{\theta}$ and $\tau_{\psi}$. Por ende,
+        \begin{align}
+            \sum_{i=1}^4 f_i &= k \sum_{i=1}^4 \omega_i^2, &\quad \boldsymbol{T}^B &= 
+            \left[{
+                \begin{array}{c}
+                    0 \\
+                    0 \\
+                    T \\
+                \end{array} 
+            }\right],
+        \end{align}
+        \begin{equation}
+            \boldsymbol{\tau}_B = 
+            \left[{
+                \begin{array}{c}
+                    \tau_\phi \\
+                    \tau_\theta \\
+                    \tau_psi \\
+                \end{array} 
+            }\right] = 
+            \left[{
+                \begin{array}{c}
+                    lk\left(-\omega_2^2 + \omega_4^2 \right) \\
+                    lk\left(-\omega_1^2 + \omega_3^2\right) \\
+                    \sum_{i = 1}^{4}\tau_{M_i} \\
+                \end{array} 
+            }\right]
+        \end{equation}
+        donde $l$ es la distancia entre el motor y el centro de masa del quadc\'optero. Debido a que este se considera un cuerpo rígido, las ecuaciones de movimiento de Newton-Euler son usadas para describir su dinámica. En el marco de referencia del cuerpo, la fuerza requerida para la aceleraci\'on de una masa $m\dot{\boldsymbol{V}}_B$ y la fuerza centr\'ifuga $\boldsymbol{\nu}\times(m\boldsymbol{V}_B)$ son iguales a la gravedad $\boldsymbol{R}^T\boldsymbol{G}$ y la fuerza total de empuje de los motores $\boldsymbol{T}_B$, teniendo entonces que
+
+        \begin{equation}
+            m\dot{\boldsymbol{V}}_B + \boldsymbol{\nu}\times(m\boldsymbol{V}_B) = \boldsymbol{R}^T\boldsymbol{G} + \boldsymbol{T}_B.
+        \end{equation}
+
+        En el marco de referencia, la fuerza centrífuga se vuelve cero. Por lo tanto, \'unicamente la fuerza gravitacional y la magnitud y direcci\'on de la fuerza de empuje contribuyen en la aceleraci\'on del quadc\'optero, obteniendo que
+
+        \begin{equation}
+            \begin{gathered}
+                m\boldsymbol{\ddot{\xi}} = \boldsymbol{G} + \boldsymbol{RT}_B, \\
+                \left[{
+                    \begin{array}{c}
+                        \ddot{x} \\
+                        \ddot{y} \\
+                        \ddot{z} \\
+                    \end{array} 
+                }\right] = -g
+                \left[{
+                    \begin{array}{c}
+                        0 \\
+                        0 \\
+                        1 \\
+                    \end{array} 
+                }\right] + \frac{T}{m}
+                \left[{
+                    \begin{array}{c}
+                        \cos{\psi}\sin{\theta}\cos{\phi} + \sin{\psi}\sin{\phi} \\
+                        \sin{\psi}\sin{\theta}\cos{\phi} - \cos{\psi}\sin{\phi} \\
+                        \cos{\theta}\cos{\phi} \\
+                    \end{array} 
+                }\right].
+            \end{gathered}
+        \end{equation}
+
+        En el marco de referencia del cuerpo, la aceleración angular del momento de inercia $\boldsymbol{I\dot{\nu}}$, las fuerzas centrípetas $\boldsymbol{\nu}\times(\boldsymbol{I\nu})$ y las fuerzas giroscópicas $\boldsymbol{\Gamma}$ son iguales al torque externo $\boldsymbol{\tau}$ de la siguiente manera:
+
+        \begin{equation}
+            \begin{gathered}
+                \boldsymbol{I\dot{\nu}} + \boldsymbol{\nu}\times(\boldsymbol{I\nu}) + \boldsymbol{\tau}, \\
+                \boldsymbol{\dot{\nu}} = -
+                \left[{
+                    \begin{array}{c}
+                        p \\
+                        q \\
+                        r \\
+                    \end{array} 
+                }\right] \times 
+                \left[{
+                    \begin{array}{c}
+                        I_{xx}p \\
+                        I_{yy}q \\
+                        I_{zz}r \\
+                    \end{array} 
+                }\right] - I_r
+                \left[{
+                    \begin{array}{c}
+                        p \\
+                        q \\
+                        r \\
+                    \end{array} 
+                }\right] \times 
+                \left[{
+                    \begin{array}{c}
+                        0 \\
+                        0 \\
+                        1 \\
+                    \end{array} 
+                }\right] \omega_{\Gamma} + \tau, \\
+                \left[{
+                    \begin{array}{c}
+                        \dot{p} \\
+                        \dot{q} \\
+                        \dot{r} \\
+                    \end{array} 
+                }\right] = 
+                \left[{
+                    \begin{array}{c}
+                        (I_{yy} - I{zz})qr/I_{xx} \\
+                        (I_{zz} - I{xx})qr/I_{yy} \\
+                        (I_{xx} - I{yy})qr/I_{xx} \\
+                    \end{array} 
+                }\right] - I_r
+                \left[{
+                    \begin{array}{c}
+                        q/I_{xx} \\
+                        -p/I_{yy} \\
+                        0 \\
+                    \end{array} 
+                }\right] \omega_{\Gamma} + 
+                \left[{
+                    \begin{array}{c}
+                        \tau_{\phi}/I_{xx} \\
+                        \tau_{\theta}/I_{yy} \\
+                        \tau_{\psi}/I_{zz} \\
+                    \end{array} 
+                }\right],
+            \end{gathered}
+        \end{equation}
+        donde $\omega_{\Gamma} = \omega_1 - \omega_2 + \omega3 - \omega4$. Las aceleraciones angulares en el marco de referencia son atraídas de las aceleraciones con la transformación matricial $\boldsymbol{W}_{\eta}^{-1}$ y su derivada en el tiempo
+
+        \begin{align}
+            \boldsymbol{\ddot{\eta}} &= \frac{d}{dt}(\boldsymbol{W_{\eta}^{-1}}\boldsymbol{\nu}) = \frac{d}{dt}(\boldsymbol{W}_{\eta}^{-1})\boldsymbol{\nu} + \boldsymbol{W_{\eta}^{-1}\boldsymbol{\dot{\nu}}} \\ &= 
+            \left[{
+                \begin{array}{ccc}
+                    0 & \dot{\phi}\cos{\phi}\tan{\theta} + \dot{\theta}\sin{\phi}/\cos^2{\theta} & -\dot{\phi}\sin{\phi}\cos{\theta} + \dot{\theta}\cos{\phi}/\cos^2{\theta} \\
+                    0 & -\dot{\phi}\sin{\phi} & -\dot{\phi}\cos{\phi} \\
+                    0 & \dot{\phi}\cos{\phi}\cos{\theta} + \dot{\phi}\sin{\phi}\tan{\theta}/\cos{\theta} & -\dot{\phi}\sin{\phi}/\cos{\theta} + \dot{\theta}\cos{\phi}\tan{\theta}/\cos{\theta} \\
+                \end{array} 
+            }\right] \boldsymbol{\nu} + \boldsymbol{W}_{\eta}^{-1}\boldsymbol{\dot{\nu}}.
+        \end{align}
+
+        La simulación de bloques en MATLAB®/Simulink™ se muestra a continuación en la Figura [ref].
     \section{Resultados}\label{sec4}
 
     \section{Conclusiones}\label{sec5}
