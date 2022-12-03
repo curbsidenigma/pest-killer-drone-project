@@ -1,15 +1,18 @@
 # Fdb version 3
-["biber build/main"] 1669786432 "build/main.bcf" "build/main.bbl" "build/main" 1669787281
-  "build/main.bcf" 1669787281 125313 d8daabf794b373e24123f19a3ff1f3be "pdflatex"
-  "main.bib" 1669786226 3418 bd970413bf7ed118413161bbb79f9d7c ""
+["biber build/main"] 1670043791 "build/main.bcf" "build/main.bbl" "build/main" 1670043799
+  "build/main.bcf" 1670043799 127054 7c59368b4aed263eead8dcff906014e0 "pdflatex"
+  "main.bib" 1670043773 11366 a66984dc6e66614c47b14e74b8c82b54 ""
   (generated)
   "build/main.bbl"
   "build/main.blg"
-["pdflatex"] 1669787279 "d:/Gerardo/Documents/Control/pest-killer-drone-project/documentation/main.tex" "build/main.pdf" "main" 1669787281
+["pdflatex"] 1670043797 "d:/Gerardo/Documents/Control/pest-killer-drone-project/documentation/main.tex" "build/main.pdf" "main" 1670043799
   "C:/Users/Gerardo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666484014 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/Gerardo/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1670043786 12668 b850a012e09a817dc5427823d865ec91 ""
   "C:/Users/Gerardo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1665447672 10321526 7dab5fcd247813de31c7b4a989b04d35 ""
+  "D:/Gerardo/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1095.tfm" 993058908 1460 8005ce585ff351dff78998923504da5e ""
   "D:/Gerardo/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "D:/Gerardo/Programs/MiKTeX/fonts/tfm/public/cm/cmbxti10.tfm" 1136765053 1532 9162035f4e7176612125649e348e2195 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/tfm/public/cm/cmmi10.tfm" 1136765053 1528 abec98dbc43e172678c11b3b9031252a ""
   "D:/Gerardo/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136765053 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -24,9 +27,12 @@
   "D:/Gerardo/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247593066 32080 340ef9bf63678554ee606688e7b5339d ""
+  "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb" 1247593067 36554 b67dc2cfa451409e100b3fcf5f506509 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247593067 32001 6aeea3afe875097b1eb0da29acd61e28 ""
+  "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247593067 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247593067 35752 024fb6c41858982481f6968b5fc26508 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247593067 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1247593067 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247593067 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247593067 36118 fad905eba93cff5bce1e185fe980a177 ""
   "D:/Gerardo/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -80,11 +86,11 @@
   "D:/Gerardo/Programs/MiKTeX/tex/latex/logreq/logreq.def" 1280937415 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "D:/Gerardo/Programs/MiKTeX/tex/latex/logreq/logreq.sty" 1280937415 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "D:/Gerardo/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "build/main.aux" 1669787281 3016 a230df092e4db4360b71d754d81fdb74 "pdflatex"
-  "build/main.bbl" 1669786435 35117 6c6376522b748068bf4f3f91d5be7442 "biber build/main"
-  "build/main.run.xml" 1669787281 2353 a6bb2ca458a0ca3b95653e754a2c7c79 "pdflatex"
-  "d:/Gerardo/Documents/Control/pest-killer-drone-project/documentation/main.tex" 1669787276 5714 a2a1eab84e0228407c39cb2ceeceebee ""
-  "main.tex" 1669787276 5714 a2a1eab84e0228407c39cb2ceeceebee ""
+  "build/main.aux" 1670043799 8114 d78a21f54a4a9ff2e0ea44beba2227ca "pdflatex"
+  "build/main.bbl" 1670043794 109721 269c5deddad9272aa7a645b2d51fff77 "biber build/main"
+  "build/main.run.xml" 1670043799 2353 a6bb2ca458a0ca3b95653e754a2c7c79 "pdflatex"
+  "d:/Gerardo/Documents/Control/pest-killer-drone-project/documentation/main.tex" 1670043773 12016 4f2e3559b7671d0c507b6e9adda27d61 ""
+  "main.tex" 1670043773 12016 4f2e3559b7671d0c507b6e9adda27d61 ""
   "pictures/itesm-logo.png" 1666478792 63258 086cb814d1b1bfe06a86da0f2acfd55b ""
   (generated)
   "build/main.aux"

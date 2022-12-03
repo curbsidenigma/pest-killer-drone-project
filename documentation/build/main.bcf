@@ -2820,6 +2820,32 @@
     <bcf:citekey order="6" intorder="1">xing-2022</bcf:citekey>
     <bcf:citekey order="7" intorder="1">alvarez-2018</bcf:citekey>
     <bcf:citekey order="8" intorder="1">negrete-2018</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">subramanian-2021</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">subramanian-2021</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">quin-2016</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">wang-2019</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">zheng-2017</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">lou-2018</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">xiao-2020</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">zhang-2019</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">ayamga-2021</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">ayamga-2021</bcf:citekey>
+    <bcf:citekey order="19" intorder="1">huang-2018</bcf:citekey>
+    <bcf:citekey order="20" intorder="1">teran-2019</bcf:citekey>
+    <bcf:citekey order="21" intorder="1">teran-2019</bcf:citekey>
+    <bcf:citekey order="22" intorder="1">montes-2020</bcf:citekey>
+    <bcf:citekey order="23" intorder="1">montes-2020</bcf:citekey>
+    <bcf:citekey order="24" intorder="1">negrete-2018</bcf:citekey>
+    <bcf:citekey order="25" intorder="1">negrete-2018</bcf:citekey>
+    <bcf:citekey order="26" intorder="1">mokhtari-2020</bcf:citekey>
+    <bcf:citekey order="27" intorder="1">mokhtari-2020</bcf:citekey>
+    <bcf:citekey order="28" intorder="1">yoon-2021</bcf:citekey>
+    <bcf:citekey order="29" intorder="1">yoon-2021</bcf:citekey>
+    <bcf:citekey order="30" intorder="1">okasha-2022</bcf:citekey>
+    <bcf:citekey order="31" intorder="1">okasha-2022</bcf:citekey>
+    <bcf:citekey order="32" intorder="1">pecina-2021</bcf:citekey>
+    <bcf:citekey order="33" intorder="1">hakeem-2019</bcf:citekey>
+    <bcf:citekey order="34" intorder="1">senasica-2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">

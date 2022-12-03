@@ -107,6 +107,97 @@
       \verb 10.1016/j.techfore.2021.120677
       \endverb
     \endentry
+    \entry{hakeem-2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c8f7735b010cb82ef9b6fd7193334fd9}{%
+           family={Hakeem},
+           familyi={H\bibinitperiod},
+           given={Abdul},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a882431651897f282a5d979e62dcbdeb}{%
+           family={Parajulee},
+           familyi={P\bibinitperiod},
+           given={Megha},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{48298d6799b8b0050965374a1e2c63f5}
+      \strng{fullhash}{48298d6799b8b0050965374a1e2c63f5}
+      \strng{bibnamehash}{48298d6799b8b0050965374a1e2c63f5}
+      \strng{authorbibnamehash}{48298d6799b8b0050965374a1e2c63f5}
+      \strng{authornamehash}{48298d6799b8b0050965374a1e2c63f5}
+      \strng{authorfullhash}{48298d6799b8b0050965374a1e2c63f5}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Southwest. Entomol.}
+      \field{number}{4}
+      \field{title}{Integrated Management of Sugarcane Aphid, Melanaphis sacchari (Hemiptera: Aphididae), on Sorghum on the Texas High Plains}
+      \field{volume}{44}
+      \field{year}{2019}
+      \field{pages}{825\bibrangedash 837}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.3958/059.044.0420
+      \endverb
+    \endentry
+    \entry{huang-2018}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=067288cb22355ee22f372ee2b5af4ad5}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Ying-Kun},
+           giveni={Y\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=804b6aadf7c5a91182b6ae3f5fab725b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wen-Feng},
+           giveni={W\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0a2121a4c13d54d47e08fe87469cca9}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Rong-Yue},
+           giveni={R\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6eab0740a63d2c5e5a24cbc8d239d437}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiao-Yan},
+           giveni={X\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9f86a7f611cd1072e161a60b750687f1}
+      \strng{fullhash}{7bdca6866e53664c4ce711683aeca485}
+      \strng{bibnamehash}{7bdca6866e53664c4ce711683aeca485}
+      \strng{authorbibnamehash}{7bdca6866e53664c4ce711683aeca485}
+      \strng{authornamehash}{9f86a7f611cd1072e161a60b750687f1}
+      \strng{authorfullhash}{7bdca6866e53664c4ce711683aeca485}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Color Illustration of Diagnosis and Control for Modern Sugarcane Diseases, Pests, and Weeds}
+      \field{title}{Integrated Control of Sugarcane Diseases and Pests}
+      \field{year}{2018}
+      \field{pages}{361\bibrangedash 377}
+      \range{pages}{17}
+    \endentry
     \entry{liu-2020}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=85c089c8214528c9323c49e380b773c7}{%
@@ -162,6 +253,174 @@
       \range{pages}{13}
       \verb{doi}
       \verb 10.1109/TII.2020.3003910
+      \endverb
+    \endentry
+    \entry{lou-2018}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=8b166634fb77cb8d00b77e13b3b78ef0}{%
+           family={Lou},
+           familyi={L\bibinitperiod},
+           given={Zhaoxia},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87e0a1e08a421514c2a005c75ba4e7c6}{%
+           family={Xin},
+           familyi={X\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7d2833e397bea0a7e28069cb7bdbc00}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Xiaoqiang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a518eaaa22c56d769ecf4a89190ae38c}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yubin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2721f4c1e063bb911316001bd3646d5a}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Tianzhu},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a98826dddd60f8a4e0308de04ff06771}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d072d3b3c4a8fcddd20135a109c0689e}
+      \strng{fullhash}{bf0d69a9337cabb71f440b43aa398aa5}
+      \strng{bibnamehash}{bf0d69a9337cabb71f440b43aa398aa5}
+      \strng{authorbibnamehash}{bf0d69a9337cabb71f440b43aa398aa5}
+      \strng{authornamehash}{d072d3b3c4a8fcddd20135a109c0689e}
+      \strng{authorfullhash}{bf0d69a9337cabb71f440b43aa398aa5}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agronomy}
+      \field{number}{9}
+      \field{title}{Effect of Unmanned Aerial Vehicle Flight Height on Droplet Distribution, Drift and Control of Cotton Aphids and Spider Mites}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{187}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/agronomy8090187
+      \endverb
+    \endentry
+    \entry{mokhtari-2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b518c28f563f8dc56f261a52866f48dc}{%
+           family={Mokhtari},
+           familyi={M\bibinitperiod},
+           given={M\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a596cf1ac5ab88a9589db45e4d77a2c1}{%
+           family={Braham},
+           familyi={B\bibinitperiod},
+           given={A\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c5c0dc38756a6824d671ac56fab0980}{%
+           family={Cherki},
+           familyi={C\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{762f15d72b6936853d417cd69052edeb}
+      \strng{fullhash}{bec8942f0816e37c824f9bd5ca9d00d8}
+      \strng{bibnamehash}{bec8942f0816e37c824f9bd5ca9d00d8}
+      \strng{authorbibnamehash}{bec8942f0816e37c824f9bd5ca9d00d8}
+      \strng{authornamehash}{762f15d72b6936853d417cd69052edeb}
+      \strng{authorfullhash}{bec8942f0816e37c824f9bd5ca9d00d8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ISA Transactions}
+      \field{title}{Extended state observer based control for coaxial-rotor UAV}
+      \field{volume}{61}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.isatra.2015.11.024
+      \endverb
+    \endentry
+    \entry{montes-2020}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0fa6dd89388d4057268606bd6087211c}{%
+           family={Montes},
+           familyi={M\bibinitperiod},
+           given={Odón},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2777577716329dcab294fd0d7d22d39d}{%
+           family={Uribe},
+           familyi={U\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a513ecaa4ae5d68e833cbb86211e92b}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Rogelio},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0548f695b73e046634b1c7bed750830}{%
+           family={Villanueva},
+           familyi={V\bibinitperiod},
+           given={Clemente},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ac59a3f77f788ac0a1e7f4868d8caf8}{%
+           family={Pérez},
+           familyi={P\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a72bc73028439ccf558d9ecb1864bbfa}{%
+           family={Lara},
+           familyi={L\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0b73958fe247752ebda5075decc8596d}
+      \strng{fullhash}{6b02edcb87b0d53a03886b16b289c934}
+      \strng{bibnamehash}{6b02edcb87b0d53a03886b16b289c934}
+      \strng{authorbibnamehash}{6b02edcb87b0d53a03886b16b289c934}
+      \strng{authornamehash}{0b73958fe247752ebda5075decc8596d}
+      \strng{authorfullhash}{6b02edcb87b0d53a03886b16b289c934}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{For. Policy Econ.}
+      \field{number}{102292}
+      \field{title}{Policy forum: Proposal of a Mexican precision agroforestry policy}
+      \field{volume}{119}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1016/j.forpol.2020.102292
       \endverb
     \endentry
     \entry{negrete-2018}{article}{}
@@ -282,6 +541,180 @@
       \verb 10.1016/j.micpro.2020.103142
       \endverb
     \endentry
+    \entry{okasha-2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9d3bf83cddfc411477fc43f262a146d9}{%
+           family={Okasha},
+           familyi={O\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=265ae982e7d12063e2437fde0b6fdda5}{%
+           family={Kralev},
+           familyi={K\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbe7a8f6eb004545e7b42cb7fd4e96d0}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Maidul},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2fc90b3b5efc7f87b64328496f843a96}
+      \strng{fullhash}{4dae1f8a7f89f4026bbd6370cbe34152}
+      \strng{bibnamehash}{4dae1f8a7f89f4026bbd6370cbe34152}
+      \strng{authorbibnamehash}{4dae1f8a7f89f4026bbd6370cbe34152}
+      \strng{authornamehash}{2fc90b3b5efc7f87b64328496f843a96}
+      \strng{authorfullhash}{4dae1f8a7f89f4026bbd6370cbe34152}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Aerospace}
+      \field{number}{6}
+      \field{title}{Design and Experimental Comparison of PID, LQR and MPC Stabilizing Controllers for Parrot Mambo Mini-Drone}
+      \field{volume}{9}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3390/aerospace9060298
+      \endverb
+    \endentry
+    \entry{pecina-2021}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=451a6b0b58eb212c80f844ae86839f3b}{%
+           family={Pecina-Quintero},
+           familyi={P\bibinithyphendelim Q\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0ca3e2bec0322abb41226ab0217940b}{%
+           family={Bújanos-Muñíz},
+           familyi={B\bibinithyphendelim M\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c281fac76cae1350326e836ed8b2dca1}{%
+           family={Núñez-Colín},
+           familyi={N\bibinithyphendelim C\bibinitperiod},
+           given={Carlos\bibnamedelima Alberto},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc60970ec83e66877f1b44e840e4cf3f}{%
+           family={Quijano-Carranza},
+           familyi={Q\bibinithyphendelim C\bibinitperiod},
+           given={Juan\bibnamedelima Ángel},
+           giveni={J\bibinitperiod\bibinitdelim Á\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ba828b27ee18b1f925269c198ac03a7}{%
+           family={Montes-Garcia},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Noé},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e107b25eeeee164bd5c9945092c89334}{%
+           family={Pecina-Becerril},
+           familyi={P\bibinithyphendelim B\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40e3c563b426231bb1eae8b239158d0b}{%
+           family={Martínez-Martínez},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={Talina\bibnamedelima Olivia},
+           giveni={T\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50c59111760934578993a8f652c1aaa8}
+      \strng{fullhash}{6abcf834e2d60ba8ad59db5fc9b18f9d}
+      \strng{bibnamehash}{6abcf834e2d60ba8ad59db5fc9b18f9d}
+      \strng{authorbibnamehash}{6abcf834e2d60ba8ad59db5fc9b18f9d}
+      \strng{authornamehash}{50c59111760934578993a8f652c1aaa8}
+      \strng{authorfullhash}{6abcf834e2d60ba8ad59db5fc9b18f9d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Southwest. Entomol.}
+      \field{number}{4}
+      \field{title}{Tolerancia de Híbridos de Sorgo al Pulgón Amarillo, Melanaphis sacchari (Zehntner), en México}
+      \field{volume}{45}
+      \field{year}{2021}
+      \field{pages}{937\bibrangedash 948}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3958/059.045.0411
+      \endverb
+    \endentry
+    \entry{quin-2016}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=e97e89f980efa9578ac10b93e00735fc}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Wei-Cai},
+           giveni={W\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7e8180ac11999bfe35cae5567979841}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Bai-Jung},
+           giveni={B\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c078d95414399117b94f9982ccdaf7fc}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Xin-Yu},
+           giveni={X\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da31f56113cb61a1fef7cf7543eefff8}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2422b102712b924e9e919c2e4038dcf}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Zhu-Feng},
+           giveni={Z\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb660942f78c7c4c222d7ec9269d9411}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Qing-Qing},
+           giveni={Q\bibinithyphendelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cd46c061fb0c9e2f496285b2e0f951f}
+      \strng{fullhash}{9bf2bd6d06324059396c101fedd88ea0}
+      \strng{bibnamehash}{9bf2bd6d06324059396c101fedd88ea0}
+      \strng{authorbibnamehash}{9bf2bd6d06324059396c101fedd88ea0}
+      \strng{authornamehash}{0cd46c061fb0c9e2f496285b2e0f951f}
+      \strng{authorfullhash}{9bf2bd6d06324059396c101fedd88ea0}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Crop. Prot.}
+      \field{title}{Droplet deposition and control effect of insecticides sprayed with an unmanned aerial vehicle against plant hoppers}
+      \field{volume}{85}
+      \field{year}{2016}
+      \field{pages}{79\bibrangedash 88}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.cropro.2016.03.018
+      \endverb
+    \endentry
     \entry{ren-2020}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=1953281be29ecbcecd816fb251bbb6fe}{%
@@ -337,6 +770,295 @@
       \range{pages}{3}
       \verb{doi}
       \verb 10.1088/1755-1315/440/5/052041
+      \endverb
+    \endentry
+    \entry{senasica-2018}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a6806d5fa620f1a0e146f98d57b4f49}{%
+           family={{Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA)}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA)}%
+      }
+      \list{location}{1}{%
+        {Coyoacán, Ciudad de México}%
+      }
+      \strng{namehash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \strng{fullhash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \strng{bibnamehash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \strng{authorbibnamehash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \strng{authornamehash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \strng{authorfullhash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{283581}
+      \field{title}{Estrategia Operativa del Programa Fitosanitario contra pulgón amarillo del sorgo, 2018}
+      \field{type}{techreport}
+      \field{year}{2018}
+    \endentry
+    \entry{subramanian-2021}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ce7fa1cbfaaff9a171f626d45eb9b5f1}{%
+           family={Subramanian},
+           familyi={S\bibinitperiod},
+           given={K\bibnamedelima S},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a18d51ec03481b835a7fc3a2a5d28a7}{%
+           family={Pazhanivelan},
+           familyi={P\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18cc2be91879a27429b4b3dcca26bdc9}{%
+           family={Srinivasan},
+           familyi={S\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6974ecc7e2dae32250eee4058afd009}{%
+           family={Santhi},
+           familyi={S\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7b9dd5c9442a5d16582bfd956fb1b19}{%
+           family={Sathiah},
+           familyi={S\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{864bc86dd16085132e16b859562bbf79}
+      \strng{fullhash}{4850f162be0b9844677f9dd07b741145}
+      \strng{bibnamehash}{4850f162be0b9844677f9dd07b741145}
+      \strng{authorbibnamehash}{4850f162be0b9844677f9dd07b741145}
+      \strng{authornamehash}{864bc86dd16085132e16b859562bbf79}
+      \strng{authorfullhash}{4850f162be0b9844677f9dd07b741145}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Front. Agron.}
+      \field{number}{640885}
+      \field{title}{Drones in Insect Pest Managment}
+      \field{volume}{3}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3389/fagro.2021.640885
+      \endverb
+    \endentry
+    \entry{teran-2019}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d02a0f942f8a1f010fa1afd5580b03af}{%
+           family={Terán-Varela},
+           familyi={T\bibinithyphendelim V\bibinitperiod},
+           given={Omar\bibnamedelima Ernesto},
+           giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53fa59f5fcc38e80caaa33c6ddafdb64}{%
+           family={Espinosa-Ayala},
+           familyi={E\bibinithyphendelim A\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=667eb32d525ef3d71ff5a6221417d6ef}{%
+           family={Hernández-García},
+           familyi={H\bibinithyphendelim G\bibinitperiod},
+           given={Pedro\bibnamedelima Abel},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2987d5a2ff03040e221dee5562b172c9}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={Alma\bibnamedelimb Lucero\bibnamedelima Álvarez},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim Á\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ac77e2e24447ff34836be568b8981ae}{%
+           family={Sánchez-Gil},
+           familyi={S\bibinithyphendelim G\bibinitperiod},
+           given={Abraham},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30434fa1b4ab4da63dbbd407f61dc7fe}{%
+           family={Ruiz-González},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Edgar\bibnamedelima Isaac},
+           giveni={E\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c921798c3e713746f157f0eb7cb7e0c}
+      \strng{fullhash}{a3241b1d134c394d389aeee92d34a67f}
+      \strng{bibnamehash}{a3241b1d134c394d389aeee92d34a67f}
+      \strng{authorbibnamehash}{a3241b1d134c394d389aeee92d34a67f}
+      \strng{authornamehash}{9c921798c3e713746f157f0eb7cb7e0c}
+      \strng{authorfullhash}{a3241b1d134c394d389aeee92d34a67f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Global de Negocios}
+      \field{number}{6}
+      \field{title}{Drones Para El Monitoreo Geodemográfico En El Sector Agrícola En El Municipio De Ayapango Estado De México}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{61\bibrangedash 71}
+      \range{pages}{11}
+    \endentry
+    \entry{wang-2019}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=401db90c3c1bbd45b0b593397e73109b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Guobin},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a518eaaa22c56d769ecf4a89190ae38c}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yubin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dc6e9f209dda5af2ab89546b64674f7}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Haixia},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff2054b9c25f2cdd9b235eddb55e223f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Pengchao},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=833080ece714e4d788817da1f89daa0d}{%
+           family={Hewitt},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21c9f5e796c6f6599ebeb232386502d6}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Yuxing},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5215ee92b6e4aab0fff32a73fc1af276}
+      \strng{fullhash}{0be854f24395ebac7c7cdc23f12dff37}
+      \strng{bibnamehash}{0be854f24395ebac7c7cdc23f12dff37}
+      \strng{authorbibnamehash}{0be854f24395ebac7c7cdc23f12dff37}
+      \strng{authornamehash}{5215ee92b6e4aab0fff32a73fc1af276}
+      \strng{authorfullhash}{0be854f24395ebac7c7cdc23f12dff37}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pest Manag. Sci.}
+      \field{number}{6}
+      \field{title}{Field evaluation of an unmanned aerial vehicle (UAV) sprayer: effect of spray volume on deposition and the control of pests and disease in wheat}
+      \field{volume}{75}
+      \field{year}{2019}
+      \field{pages}{1546\bibrangedash 1555}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/ps.5321
+      \endverb
+    \endentry
+    \entry{xiao-2020}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=6a6caa454805140297ee98d4e636bd01}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Qinggang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3943dbdcbcb6d6cc1861ad4c6102bea5}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eba68d34a25d8e0125cb5eeb7f44fbd9}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7d2833e397bea0a7e28069cb7bdbc00}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Xiaoqiang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5af378b74f09918735da88d6c1c79e8e}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Sifeng},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ba1001c739de777ce9d902d3f244eb8}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Guoqiang},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a98826dddd60f8a4e0308de04ff06771}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=401db90c3c1bbd45b0b593397e73109b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Guobin},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a518eaaa22c56d769ecf4a89190ae38c}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yubin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e89914e9c0eddcad0816da290fc1cd6}
+      \strng{fullhash}{9fb4dfc974dc807f11e5c9c903088ca3}
+      \strng{bibnamehash}{9fb4dfc974dc807f11e5c9c903088ca3}
+      \strng{authorbibnamehash}{9fb4dfc974dc807f11e5c9c903088ca3}
+      \strng{authornamehash}{1e89914e9c0eddcad0816da290fc1cd6}
+      \strng{authorfullhash}{9fb4dfc974dc807f11e5c9c903088ca3}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agronomy}
+      \field{number}{2}
+      \field{title}{Comparison of Droplet Deposition Control Efficacy on Phytophthora capsica and Aphids in the Processing Pepper Field of the Unmanned Aerial Vehicle and Knapsack Sprayer}
+      \field{volume}{10}
+      \field{year}{2020}
+      \field{pages}{215}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/agronomy10020215
       \endverb
     \endentry
     \entry{xing-2022}{article}{}
@@ -425,6 +1147,180 @@
       \range{pages}{39}
       \verb{doi}
       \verb 10.1016/j.iot.2020.100218
+      \endverb
+    \endentry
+    \entry{zheng-2017}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=79744a03062e7115850e83b2ff3aa3d9}{%
+           family={Yongjun},
+           familyi={Y\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d723931457d1057d0821abe54531ca3b}{%
+           family={Shenghui},
+           familyi={S\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ec365128b24a38fa20ae0420ac4368c}{%
+           family={Chunjiang},
+           familyi={C\bibinitperiod},
+           given={Zhao},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a09979b88f73399a8ea40129787111eb}{%
+           family={Liping},
+           familyi={L\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a518eaaa22c56d769ecf4a89190ae38c}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yubin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f766e33b284dcf980bb0642f2d2eafa0}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Tan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5902c7715f5ca4196b21d4d4d5c978d9}
+      \strng{fullhash}{248483ff9e41cc78b2bde33784d17d64}
+      \strng{bibnamehash}{248483ff9e41cc78b2bde33784d17d64}
+      \strng{authorbibnamehash}{248483ff9e41cc78b2bde33784d17d64}
+      \strng{authornamehash}{5902c7715f5ca4196b21d4d4d5c978d9}
+      \strng{authorfullhash}{248483ff9e41cc78b2bde33784d17d64}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Agric. Biol. Eng.}
+      \field{number}{3}
+      \field{title}{Modelling operation parameters of UAV on spray effects at different growth stages of corns}
+      \field{volume}{10}
+      \field{year}{2017}
+      \field{pages}{57\bibrangedash 66}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.3965/j.ijabe.20171003.2578
+      \endverb
+    \endentry
+    \entry{yoon-2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f6812818025cf953cc8b4ab53ed027af}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Jaehyun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b7a868fc7bf25c0de2af0bd73b9cce2}{%
+           family={Doh},
+           familyi={D\bibinitperiod},
+           given={Jaehyeok},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \strng{fullhash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \strng{bibnamehash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \strng{authorbibnamehash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \strng{authornamehash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \strng{authorfullhash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Adv. Eng. Inform.}
+      \field{number}{101679}
+      \field{title}{Optimal PID control for hovering stabilization of quadcopter using long short term memory}
+      \field{volume}{52}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1016/j.aei.2022.101679
+      \endverb
+    \endentry
+    \entry{zhang-2019}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=134908b976713378f4b00e5f9ba34549}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiao-Qiu},
+           giveni={X\bibinithyphendelim Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3855854d674e3b4ffda0c0bcffb23a21}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Yong-Jian},
+           giveni={Y\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b373347474434c1a9d0e93e1fdbbb653}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Zhen-Qiang},
+           giveni={Z\bibinithyphendelim Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2baaa04ba27eb9752a24a7fef1c38dc1}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={De-Wei},
+           giveni={D\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e9b62906f99078222583bc7eed9ec55}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Chun-Yan},
+           giveni={C\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24ebf860aa182b5402fabdc7be3e46c1}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Jin-Ju},
+           giveni={J\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e12f7fa51f1a6470c303b0b7ce719cdf}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yang-Rui},
+           giveni={Y\bibinithyphendelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10fcb6738694f7838fa1271744a7cbed}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Xiu-Peng},
+           giveni={X\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72ecddb7a97cee3dc7c4d94289115917}
+      \strng{fullhash}{d3d75d2bbe40a9e90148236fbe5e143c}
+      \strng{bibnamehash}{d3d75d2bbe40a9e90148236fbe5e143c}
+      \strng{authorbibnamehash}{d3d75d2bbe40a9e90148236fbe5e143c}
+      \strng{authornamehash}{72ecddb7a97cee3dc7c4d94289115917}
+      \strng{authorfullhash}{d3d75d2bbe40a9e90148236fbe5e143c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sugar Tech}
+      \field{title}{Application of Multi-rotor Unmanned Aerial Vehicle Application in Management of Stem Borer (Lepidoptera) in Sugarcane}
+      \field{volume}{21}
+      \field{year}{2019}
+      \field{pages}{847\bibrangedash 852}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/s12355-018-0695-y
       \endverb
     \endentry
   \enddatalist
@@ -517,6 +1413,97 @@
       \verb 10.1016/j.techfore.2021.120677
       \endverb
     \endentry
+    \entry{hakeem-2019}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c8f7735b010cb82ef9b6fd7193334fd9}{%
+           family={Hakeem},
+           familyi={H\bibinitperiod},
+           given={Abdul},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a882431651897f282a5d979e62dcbdeb}{%
+           family={Parajulee},
+           familyi={P\bibinitperiod},
+           given={Megha},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{48298d6799b8b0050965374a1e2c63f5}
+      \strng{fullhash}{48298d6799b8b0050965374a1e2c63f5}
+      \strng{bibnamehash}{48298d6799b8b0050965374a1e2c63f5}
+      \strng{authorbibnamehash}{48298d6799b8b0050965374a1e2c63f5}
+      \strng{authornamehash}{48298d6799b8b0050965374a1e2c63f5}
+      \strng{authorfullhash}{48298d6799b8b0050965374a1e2c63f5}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Southwest. Entomol.}
+      \field{number}{4}
+      \field{title}{Integrated Management of Sugarcane Aphid, Melanaphis sacchari (Hemiptera: Aphididae), on Sorghum on the Texas High Plains}
+      \field{volume}{44}
+      \field{year}{2019}
+      \field{pages}{825\bibrangedash 837}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.3958/059.044.0420
+      \endverb
+    \endentry
+    \entry{huang-2018}{inbook}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=067288cb22355ee22f372ee2b5af4ad5}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Ying-Kun},
+           giveni={Y\bibinithyphendelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=804b6aadf7c5a91182b6ae3f5fab725b}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wen-Feng},
+           giveni={W\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0a2121a4c13d54d47e08fe87469cca9}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Rong-Yue},
+           giveni={R\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6eab0740a63d2c5e5a24cbc8d239d437}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiao-Yan},
+           giveni={X\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Singapore}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9f86a7f611cd1072e161a60b750687f1}
+      \strng{fullhash}{7bdca6866e53664c4ce711683aeca485}
+      \strng{bibnamehash}{7bdca6866e53664c4ce711683aeca485}
+      \strng{authorbibnamehash}{7bdca6866e53664c4ce711683aeca485}
+      \strng{authornamehash}{9f86a7f611cd1072e161a60b750687f1}
+      \strng{authorfullhash}{7bdca6866e53664c4ce711683aeca485}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Color Illustration of Diagnosis and Control for Modern Sugarcane Diseases, Pests, and Weeds}
+      \field{title}{Integrated Control of Sugarcane Diseases and Pests}
+      \field{year}{2018}
+      \field{pages}{361\bibrangedash 377}
+      \range{pages}{17}
+    \endentry
     \entry{liu-2020}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=85c089c8214528c9323c49e380b773c7}{%
@@ -572,6 +1559,174 @@
       \range{pages}{13}
       \verb{doi}
       \verb 10.1109/TII.2020.3003910
+      \endverb
+    \endentry
+    \entry{lou-2018}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=8b166634fb77cb8d00b77e13b3b78ef0}{%
+           family={Lou},
+           familyi={L\bibinitperiod},
+           given={Zhaoxia},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87e0a1e08a421514c2a005c75ba4e7c6}{%
+           family={Xin},
+           familyi={X\bibinitperiod},
+           given={Fang},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7d2833e397bea0a7e28069cb7bdbc00}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Xiaoqiang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a518eaaa22c56d769ecf4a89190ae38c}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yubin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2721f4c1e063bb911316001bd3646d5a}{%
+           family={Duan},
+           familyi={D\bibinitperiod},
+           given={Tianzhu},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a98826dddd60f8a4e0308de04ff06771}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d072d3b3c4a8fcddd20135a109c0689e}
+      \strng{fullhash}{bf0d69a9337cabb71f440b43aa398aa5}
+      \strng{bibnamehash}{bf0d69a9337cabb71f440b43aa398aa5}
+      \strng{authorbibnamehash}{bf0d69a9337cabb71f440b43aa398aa5}
+      \strng{authornamehash}{d072d3b3c4a8fcddd20135a109c0689e}
+      \strng{authorfullhash}{bf0d69a9337cabb71f440b43aa398aa5}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agronomy}
+      \field{number}{9}
+      \field{title}{Effect of Unmanned Aerial Vehicle Flight Height on Droplet Distribution, Drift and Control of Cotton Aphids and Spider Mites}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{187}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/agronomy8090187
+      \endverb
+    \endentry
+    \entry{mokhtari-2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b518c28f563f8dc56f261a52866f48dc}{%
+           family={Mokhtari},
+           familyi={M\bibinitperiod},
+           given={M\bibnamedelima R},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a596cf1ac5ab88a9589db45e4d77a2c1}{%
+           family={Braham},
+           familyi={B\bibinitperiod},
+           given={A\bibnamedelima C},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c5c0dc38756a6824d671ac56fab0980}{%
+           family={Cherki},
+           familyi={C\bibinitperiod},
+           given={B},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{762f15d72b6936853d417cd69052edeb}
+      \strng{fullhash}{bec8942f0816e37c824f9bd5ca9d00d8}
+      \strng{bibnamehash}{bec8942f0816e37c824f9bd5ca9d00d8}
+      \strng{authorbibnamehash}{bec8942f0816e37c824f9bd5ca9d00d8}
+      \strng{authornamehash}{762f15d72b6936853d417cd69052edeb}
+      \strng{authorfullhash}{bec8942f0816e37c824f9bd5ca9d00d8}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ISA Transactions}
+      \field{title}{Extended state observer based control for coaxial-rotor UAV}
+      \field{volume}{61}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 14}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.isatra.2015.11.024
+      \endverb
+    \endentry
+    \entry{montes-2020}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=0fa6dd89388d4057268606bd6087211c}{%
+           family={Montes},
+           familyi={M\bibinitperiod},
+           given={Odón},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2777577716329dcab294fd0d7d22d39d}{%
+           family={Uribe},
+           familyi={U\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a513ecaa4ae5d68e833cbb86211e92b}{%
+           family={Castro},
+           familyi={C\bibinitperiod},
+           given={Rogelio},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0548f695b73e046634b1c7bed750830}{%
+           family={Villanueva},
+           familyi={V\bibinitperiod},
+           given={Clemente},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ac59a3f77f788ac0a1e7f4868d8caf8}{%
+           family={Pérez},
+           familyi={P\bibinitperiod},
+           given={Mario},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a72bc73028439ccf558d9ecb1864bbfa}{%
+           family={Lara},
+           familyi={L\bibinitperiod},
+           given={Alejandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0b73958fe247752ebda5075decc8596d}
+      \strng{fullhash}{6b02edcb87b0d53a03886b16b289c934}
+      \strng{bibnamehash}{6b02edcb87b0d53a03886b16b289c934}
+      \strng{authorbibnamehash}{6b02edcb87b0d53a03886b16b289c934}
+      \strng{authornamehash}{0b73958fe247752ebda5075decc8596d}
+      \strng{authorfullhash}{6b02edcb87b0d53a03886b16b289c934}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{For. Policy Econ.}
+      \field{number}{102292}
+      \field{title}{Policy forum: Proposal of a Mexican precision agroforestry policy}
+      \field{volume}{119}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1016/j.forpol.2020.102292
       \endverb
     \endentry
     \entry{negrete-2018}{article}{}
@@ -692,6 +1847,180 @@
       \verb 10.1016/j.micpro.2020.103142
       \endverb
     \endentry
+    \entry{okasha-2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9d3bf83cddfc411477fc43f262a146d9}{%
+           family={Okasha},
+           familyi={O\bibinitperiod},
+           given={Mohamed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=265ae982e7d12063e2437fde0b6fdda5}{%
+           family={Kralev},
+           familyi={K\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbe7a8f6eb004545e7b42cb7fd4e96d0}{%
+           family={Islam},
+           familyi={I\bibinitperiod},
+           given={Maidul},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2fc90b3b5efc7f87b64328496f843a96}
+      \strng{fullhash}{4dae1f8a7f89f4026bbd6370cbe34152}
+      \strng{bibnamehash}{4dae1f8a7f89f4026bbd6370cbe34152}
+      \strng{authorbibnamehash}{4dae1f8a7f89f4026bbd6370cbe34152}
+      \strng{authornamehash}{2fc90b3b5efc7f87b64328496f843a96}
+      \strng{authorfullhash}{4dae1f8a7f89f4026bbd6370cbe34152}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Aerospace}
+      \field{number}{6}
+      \field{title}{Design and Experimental Comparison of PID, LQR and MPC Stabilizing Controllers for Parrot Mambo Mini-Drone}
+      \field{volume}{9}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.3390/aerospace9060298
+      \endverb
+    \endentry
+    \entry{pecina-2021}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=451a6b0b58eb212c80f844ae86839f3b}{%
+           family={Pecina-Quintero},
+           familyi={P\bibinithyphendelim Q\bibinitperiod},
+           given={Victor},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0ca3e2bec0322abb41226ab0217940b}{%
+           family={Bújanos-Muñíz},
+           familyi={B\bibinithyphendelim M\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c281fac76cae1350326e836ed8b2dca1}{%
+           family={Núñez-Colín},
+           familyi={N\bibinithyphendelim C\bibinitperiod},
+           given={Carlos\bibnamedelima Alberto},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc60970ec83e66877f1b44e840e4cf3f}{%
+           family={Quijano-Carranza},
+           familyi={Q\bibinithyphendelim C\bibinitperiod},
+           given={Juan\bibnamedelima Ángel},
+           giveni={J\bibinitperiod\bibinitdelim Á\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ba828b27ee18b1f925269c198ac03a7}{%
+           family={Montes-Garcia},
+           familyi={M\bibinithyphendelim G\bibinitperiod},
+           given={Noé},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e107b25eeeee164bd5c9945092c89334}{%
+           family={Pecina-Becerril},
+           familyi={P\bibinithyphendelim B\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40e3c563b426231bb1eae8b239158d0b}{%
+           family={Martínez-Martínez},
+           familyi={M\bibinithyphendelim M\bibinitperiod},
+           given={Talina\bibnamedelima Olivia},
+           giveni={T\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{50c59111760934578993a8f652c1aaa8}
+      \strng{fullhash}{6abcf834e2d60ba8ad59db5fc9b18f9d}
+      \strng{bibnamehash}{6abcf834e2d60ba8ad59db5fc9b18f9d}
+      \strng{authorbibnamehash}{6abcf834e2d60ba8ad59db5fc9b18f9d}
+      \strng{authornamehash}{50c59111760934578993a8f652c1aaa8}
+      \strng{authorfullhash}{6abcf834e2d60ba8ad59db5fc9b18f9d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Southwest. Entomol.}
+      \field{number}{4}
+      \field{title}{Tolerancia de Híbridos de Sorgo al Pulgón Amarillo, Melanaphis sacchari (Zehntner), en México}
+      \field{volume}{45}
+      \field{year}{2021}
+      \field{pages}{937\bibrangedash 948}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3958/059.045.0411
+      \endverb
+    \endentry
+    \entry{quin-2016}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=e97e89f980efa9578ac10b93e00735fc}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Wei-Cai},
+           giveni={W\bibinithyphendelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7e8180ac11999bfe35cae5567979841}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Bai-Jung},
+           giveni={B\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c078d95414399117b94f9982ccdaf7fc}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Xin-Yu},
+           giveni={X\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=da31f56113cb61a1fef7cf7543eefff8}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2422b102712b924e9e919c2e4038dcf}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Zhu-Feng},
+           giveni={Z\bibinithyphendelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eb660942f78c7c4c222d7ec9269d9411}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Qing-Qing},
+           giveni={Q\bibinithyphendelim Q\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cd46c061fb0c9e2f496285b2e0f951f}
+      \strng{fullhash}{9bf2bd6d06324059396c101fedd88ea0}
+      \strng{bibnamehash}{9bf2bd6d06324059396c101fedd88ea0}
+      \strng{authorbibnamehash}{9bf2bd6d06324059396c101fedd88ea0}
+      \strng{authornamehash}{0cd46c061fb0c9e2f496285b2e0f951f}
+      \strng{authorfullhash}{9bf2bd6d06324059396c101fedd88ea0}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Crop. Prot.}
+      \field{title}{Droplet deposition and control effect of insecticides sprayed with an unmanned aerial vehicle against plant hoppers}
+      \field{volume}{85}
+      \field{year}{2016}
+      \field{pages}{79\bibrangedash 88}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.cropro.2016.03.018
+      \endverb
+    \endentry
     \entry{ren-2020}{article}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=1953281be29ecbcecd816fb251bbb6fe}{%
@@ -747,6 +2076,295 @@
       \range{pages}{3}
       \verb{doi}
       \verb 10.1088/1755-1315/440/5/052041
+      \endverb
+    \endentry
+    \entry{senasica-2018}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a6806d5fa620f1a0e146f98d57b4f49}{%
+           family={{Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA)}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación (SAGARPA)}%
+      }
+      \list{location}{1}{%
+        {Coyoacán, Ciudad de México}%
+      }
+      \strng{namehash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \strng{fullhash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \strng{bibnamehash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \strng{authorbibnamehash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \strng{authornamehash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \strng{authorfullhash}{2a6806d5fa620f1a0e146f98d57b4f49}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{283581}
+      \field{title}{Estrategia Operativa del Programa Fitosanitario contra pulgón amarillo del sorgo, 2018}
+      \field{type}{techreport}
+      \field{year}{2018}
+    \endentry
+    \entry{subramanian-2021}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=ce7fa1cbfaaff9a171f626d45eb9b5f1}{%
+           family={Subramanian},
+           familyi={S\bibinitperiod},
+           given={K\bibnamedelima S},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a18d51ec03481b835a7fc3a2a5d28a7}{%
+           family={Pazhanivelan},
+           familyi={P\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18cc2be91879a27429b4b3dcca26bdc9}{%
+           family={Srinivasan},
+           familyi={S\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6974ecc7e2dae32250eee4058afd009}{%
+           family={Santhi},
+           familyi={S\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e7b9dd5c9442a5d16582bfd956fb1b19}{%
+           family={Sathiah},
+           familyi={S\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{864bc86dd16085132e16b859562bbf79}
+      \strng{fullhash}{4850f162be0b9844677f9dd07b741145}
+      \strng{bibnamehash}{4850f162be0b9844677f9dd07b741145}
+      \strng{authorbibnamehash}{4850f162be0b9844677f9dd07b741145}
+      \strng{authornamehash}{864bc86dd16085132e16b859562bbf79}
+      \strng{authorfullhash}{4850f162be0b9844677f9dd07b741145}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Front. Agron.}
+      \field{number}{640885}
+      \field{title}{Drones in Insect Pest Managment}
+      \field{volume}{3}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3389/fagro.2021.640885
+      \endverb
+    \endentry
+    \entry{teran-2019}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d02a0f942f8a1f010fa1afd5580b03af}{%
+           family={Terán-Varela},
+           familyi={T\bibinithyphendelim V\bibinitperiod},
+           given={Omar\bibnamedelima Ernesto},
+           giveni={O\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53fa59f5fcc38e80caaa33c6ddafdb64}{%
+           family={Espinosa-Ayala},
+           familyi={E\bibinithyphendelim A\bibinitperiod},
+           given={Enrique},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=667eb32d525ef3d71ff5a6221417d6ef}{%
+           family={Hernández-García},
+           familyi={H\bibinithyphendelim G\bibinitperiod},
+           given={Pedro\bibnamedelima Abel},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2987d5a2ff03040e221dee5562b172c9}{%
+           family={González},
+           familyi={G\bibinitperiod},
+           given={Alma\bibnamedelimb Lucero\bibnamedelima Álvarez},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim Á\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ac77e2e24447ff34836be568b8981ae}{%
+           family={Sánchez-Gil},
+           familyi={S\bibinithyphendelim G\bibinitperiod},
+           given={Abraham},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30434fa1b4ab4da63dbbd407f61dc7fe}{%
+           family={Ruiz-González},
+           familyi={R\bibinithyphendelim G\bibinitperiod},
+           given={Edgar\bibnamedelima Isaac},
+           giveni={E\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c921798c3e713746f157f0eb7cb7e0c}
+      \strng{fullhash}{a3241b1d134c394d389aeee92d34a67f}
+      \strng{bibnamehash}{a3241b1d134c394d389aeee92d34a67f}
+      \strng{authorbibnamehash}{a3241b1d134c394d389aeee92d34a67f}
+      \strng{authornamehash}{9c921798c3e713746f157f0eb7cb7e0c}
+      \strng{authorfullhash}{a3241b1d134c394d389aeee92d34a67f}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Global de Negocios}
+      \field{number}{6}
+      \field{title}{Drones Para El Monitoreo Geodemográfico En El Sector Agrícola En El Municipio De Ayapango Estado De México}
+      \field{volume}{6}
+      \field{year}{2018}
+      \field{pages}{61\bibrangedash 71}
+      \range{pages}{11}
+    \endentry
+    \entry{wang-2019}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=401db90c3c1bbd45b0b593397e73109b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Guobin},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a518eaaa22c56d769ecf4a89190ae38c}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yubin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8dc6e9f209dda5af2ab89546b64674f7}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Haixia},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff2054b9c25f2cdd9b235eddb55e223f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Pengchao},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=833080ece714e4d788817da1f89daa0d}{%
+           family={Hewitt},
+           familyi={H\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21c9f5e796c6f6599ebeb232386502d6}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Yuxing},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5215ee92b6e4aab0fff32a73fc1af276}
+      \strng{fullhash}{0be854f24395ebac7c7cdc23f12dff37}
+      \strng{bibnamehash}{0be854f24395ebac7c7cdc23f12dff37}
+      \strng{authorbibnamehash}{0be854f24395ebac7c7cdc23f12dff37}
+      \strng{authornamehash}{5215ee92b6e4aab0fff32a73fc1af276}
+      \strng{authorfullhash}{0be854f24395ebac7c7cdc23f12dff37}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Pest Manag. Sci.}
+      \field{number}{6}
+      \field{title}{Field evaluation of an unmanned aerial vehicle (UAV) sprayer: effect of spray volume on deposition and the control of pests and disease in wheat}
+      \field{volume}{75}
+      \field{year}{2019}
+      \field{pages}{1546\bibrangedash 1555}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/ps.5321
+      \endverb
+    \endentry
+    \entry{xiao-2020}{article}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=6a6caa454805140297ee98d4e636bd01}{%
+           family={Xiao},
+           familyi={X\bibinitperiod},
+           given={Qinggang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3943dbdcbcb6d6cc1861ad4c6102bea5}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eba68d34a25d8e0125cb5eeb7f44fbd9}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7d2833e397bea0a7e28069cb7bdbc00}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Xiaoqiang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5af378b74f09918735da88d6c1c79e8e}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Sifeng},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ba1001c739de777ce9d902d3f244eb8}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Guoqiang},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a98826dddd60f8a4e0308de04ff06771}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=401db90c3c1bbd45b0b593397e73109b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Guobin},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a518eaaa22c56d769ecf4a89190ae38c}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yubin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e89914e9c0eddcad0816da290fc1cd6}
+      \strng{fullhash}{9fb4dfc974dc807f11e5c9c903088ca3}
+      \strng{bibnamehash}{9fb4dfc974dc807f11e5c9c903088ca3}
+      \strng{authorbibnamehash}{9fb4dfc974dc807f11e5c9c903088ca3}
+      \strng{authornamehash}{1e89914e9c0eddcad0816da290fc1cd6}
+      \strng{authorfullhash}{9fb4dfc974dc807f11e5c9c903088ca3}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agronomy}
+      \field{number}{2}
+      \field{title}{Comparison of Droplet Deposition Control Efficacy on Phytophthora capsica and Aphids in the Processing Pepper Field of the Unmanned Aerial Vehicle and Knapsack Sprayer}
+      \field{volume}{10}
+      \field{year}{2020}
+      \field{pages}{215}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/agronomy10020215
       \endverb
     \endentry
     \entry{xing-2022}{article}{}
@@ -835,6 +2453,180 @@
       \range{pages}{39}
       \verb{doi}
       \verb 10.1016/j.iot.2020.100218
+      \endverb
+    \endentry
+    \entry{zheng-2017}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=79744a03062e7115850e83b2ff3aa3d9}{%
+           family={Yongjun},
+           familyi={Y\bibinitperiod},
+           given={Zheng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d723931457d1057d0821abe54531ca3b}{%
+           family={Shenghui},
+           familyi={S\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ec365128b24a38fa20ae0420ac4368c}{%
+           family={Chunjiang},
+           familyi={C\bibinitperiod},
+           given={Zhao},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a09979b88f73399a8ea40129787111eb}{%
+           family={Liping},
+           familyi={L\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a518eaaa22c56d769ecf4a89190ae38c}{%
+           family={Lan},
+           familyi={L\bibinitperiod},
+           given={Yubin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f766e33b284dcf980bb0642f2d2eafa0}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Tan},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5902c7715f5ca4196b21d4d4d5c978d9}
+      \strng{fullhash}{248483ff9e41cc78b2bde33784d17d64}
+      \strng{bibnamehash}{248483ff9e41cc78b2bde33784d17d64}
+      \strng{authorbibnamehash}{248483ff9e41cc78b2bde33784d17d64}
+      \strng{authornamehash}{5902c7715f5ca4196b21d4d4d5c978d9}
+      \strng{authorfullhash}{248483ff9e41cc78b2bde33784d17d64}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Int. J. Agric. Biol. Eng.}
+      \field{number}{3}
+      \field{title}{Modelling operation parameters of UAV on spray effects at different growth stages of corns}
+      \field{volume}{10}
+      \field{year}{2017}
+      \field{pages}{57\bibrangedash 66}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.3965/j.ijabe.20171003.2578
+      \endverb
+    \endentry
+    \entry{yoon-2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f6812818025cf953cc8b4ab53ed027af}{%
+           family={Yoon},
+           familyi={Y\bibinitperiod},
+           given={Jaehyun},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b7a868fc7bf25c0de2af0bd73b9cce2}{%
+           family={Doh},
+           familyi={D\bibinitperiod},
+           given={Jaehyeok},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \strng{fullhash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \strng{bibnamehash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \strng{authorbibnamehash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \strng{authornamehash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \strng{authorfullhash}{9c7f24f267c66101f7aaa1897ee7aa59}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Adv. Eng. Inform.}
+      \field{number}{101679}
+      \field{title}{Optimal PID control for hovering stabilization of quadcopter using long short term memory}
+      \field{volume}{52}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1016/j.aei.2022.101679
+      \endverb
+    \endentry
+    \entry{zhang-2019}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=134908b976713378f4b00e5f9ba34549}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Xiao-Qiu},
+           giveni={X\bibinithyphendelim Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3855854d674e3b4ffda0c0bcffb23a21}{%
+           family={Liang},
+           familyi={L\bibinitperiod},
+           given={Yong-Jian},
+           giveni={Y\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b373347474434c1a9d0e93e1fdbbb653}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Zhen-Qiang},
+           giveni={Z\bibinithyphendelim Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2baaa04ba27eb9752a24a7fef1c38dc1}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={De-Wei},
+           giveni={D\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e9b62906f99078222583bc7eed9ec55}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Chun-Yan},
+           giveni={C\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24ebf860aa182b5402fabdc7be3e46c1}{%
+           family={Wei},
+           familyi={W\bibinitperiod},
+           given={Jin-Ju},
+           giveni={J\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e12f7fa51f1a6470c303b0b7ce719cdf}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yang-Rui},
+           giveni={Y\bibinithyphendelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10fcb6738694f7838fa1271744a7cbed}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Xiu-Peng},
+           giveni={X\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72ecddb7a97cee3dc7c4d94289115917}
+      \strng{fullhash}{d3d75d2bbe40a9e90148236fbe5e143c}
+      \strng{bibnamehash}{d3d75d2bbe40a9e90148236fbe5e143c}
+      \strng{authorbibnamehash}{d3d75d2bbe40a9e90148236fbe5e143c}
+      \strng{authornamehash}{72ecddb7a97cee3dc7c4d94289115917}
+      \strng{authorfullhash}{d3d75d2bbe40a9e90148236fbe5e143c}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sugar Tech}
+      \field{title}{Application of Multi-rotor Unmanned Aerial Vehicle Application in Management of Stem Borer (Lepidoptera) in Sugarcane}
+      \field{volume}{21}
+      \field{year}{2019}
+      \field{pages}{847\bibrangedash 852}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1007/s12355-018-0695-y
       \endverb
     \endentry
   \enddatalist
