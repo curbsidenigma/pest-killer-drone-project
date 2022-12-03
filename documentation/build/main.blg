@@ -1,19 +1,19 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [0] Config.pm:309> INFO - Logfile is 'build/main.blg'
-[149] biber-MSWIN64:340> INFO - === 
-[192] Biber.pm:418> INFO - Reading 'build/main.bcf'
-[349] Biber.pm:978> INFO - Found 24 citekeys in bib section 0
-[375] Biber.pm:4401> INFO - Processing section 0
-[389] Biber.pm:4592> INFO - Looking for bibtex file 'main.bib' for section 0
-[447] bibtex.pm:1713> INFO - LaTeX decoding ...
-[496] bibtex.pm:1518> INFO - Found BibTeX data source 'main.bib'
-[766] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[766] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[766] Biber.pm:4221> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[845] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[845] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[845] Biber.pm:4221> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
-[899] bbl.pm:654> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
-[953] bbl.pm:757> INFO - Output to build/main.bbl
-[953] Biber.pm:130> WARN - Duplicate entry key: 'ayamga-2021' in file 'main.bib', skipping ...
-[954] Biber.pm:132> INFO - WARNINGS: 1
+[127] biber-MSWIN64:340> INFO - === 
+[178] Biber.pm:418> INFO - Reading 'build/main.bcf'
+[337] Biber.pm:978> INFO - Found 24 citekeys in bib section 0
+[363] Biber.pm:4401> INFO - Processing section 0
+[377] Biber.pm:4592> INFO - Looking for bibtex file 'main.bib' for section 0
+[461] bibtex.pm:1713> INFO - LaTeX decoding ...
+[510] bibtex.pm:1518> INFO - Found BibTeX data source 'main.bib'
+[778] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[778] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[778] Biber.pm:4221> INFO - Sorting list 'apa/apasortcite//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[863] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[863] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[863] Biber.pm:4221> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'es-ES'
+[917] bbl.pm:654> INFO - Writing 'build/main.bbl' with encoding 'UTF-8'
+[972] bbl.pm:757> INFO - Output to build/main.bbl
+[973] Biber.pm:130> WARN - Duplicate entry key: 'ayamga-2021' in file 'main.bib', skipping ...
+[973] Biber.pm:132> INFO - WARNINGS: 1

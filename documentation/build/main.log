@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.10)  2 DEC 2022 23:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.10)  2 DEC 2022 23:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -188,6 +188,77 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen151
 \Gin@req@width=\dimen152
+) (D:\Gerardo\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip74
+
+For additional information on amsmath, use the `?' option.
+(D:\Gerardo\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (D:\Gerardo\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen153
+)) (D:\Gerardo\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen154
+) (D:\Gerardo\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count313
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count314
+\leftroot@=\count315
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count316
+\DOTSCASE@=\count317
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen155
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count318
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count319
+\dotsspace@=\muskip16
+\c@parentequation=\count320
+\dspbrk@lvl=\count321
+\tag@help=\toks28
+\row@=\count322
+\column@=\count323
+\maxfields@=\count324
+\andhelp@=\toks29
+\eqnshift@=\dimen156
+\alignsep@=\dimen157
+\tagshift@=\dimen158
+\tagwidth@=\dimen159
+\totwidth@=\dimen160
+\lineht@=\dimen161
+\@envbody=\toks30
+\multlinegap=\skip75
+\multlinetaggap=\skip76
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+) (D:\Gerardo\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ) (D:\Gerardo\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
  (D:\Gerardo\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
@@ -206,70 +277,70 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (D:\Gerardo\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count313
+\lrq@indent=\count325
  (D:\Gerardo\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (D:\Gerardo\Programs\MiKTeX\tex/latex/url\url.sty
-\Urlmuskip=\muskip16
+\Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count314
-\c@listtotal=\count315
-\c@listcount=\count316
-\c@liststart=\count317
-\c@liststop=\count318
-\c@citecount=\count319
-\c@citetotal=\count320
-\c@multicitecount=\count321
-\c@multicitetotal=\count322
-\c@instcount=\count323
-\c@maxnames=\count324
-\c@minnames=\count325
-\c@maxitems=\count326
-\c@minitems=\count327
-\c@citecounter=\count328
-\c@maxcitecounter=\count329
-\c@savedcitecounter=\count330
-\c@uniquelist=\count331
-\c@uniquename=\count332
-\c@refsection=\count333
-\c@refsegment=\count334
-\c@maxextratitle=\count335
-\c@maxextratitleyear=\count336
-\c@maxextraname=\count337
-\c@maxextradate=\count338
-\c@maxextraalpha=\count339
-\c@abbrvpenalty=\count340
-\c@highnamepenalty=\count341
-\c@lownamepenalty=\count342
-\c@maxparens=\count343
-\c@parenlevel=\count344
-\blx@tempcnta=\count345
-\blx@tempcntb=\count346
-\blx@tempcntc=\count347
-\c@blx@maxsection=\count348
-\blx@maxsegment@0=\count349
-\blx@notetype=\count350
-\blx@parenlevel@text=\count351
-\blx@parenlevel@foot=\count352
-\blx@sectionciteorder@0=\count353
-\blx@sectionciteorderinternal@0=\count354
-\blx@entrysetcounter=\count355
-\blx@biblioinstance=\count356
-\labelnumberwidth=\skip74
-\labelalphawidth=\skip75
-\biblabelsep=\skip76
-\bibitemsep=\skip77
-\bibnamesep=\skip78
-\bibinitsep=\skip79
-\bibparsep=\skip80
-\bibhang=\skip81
+\c@tabx@nest=\count326
+\c@listtotal=\count327
+\c@listcount=\count328
+\c@liststart=\count329
+\c@liststop=\count330
+\c@citecount=\count331
+\c@citetotal=\count332
+\c@multicitecount=\count333
+\c@multicitetotal=\count334
+\c@instcount=\count335
+\c@maxnames=\count336
+\c@minnames=\count337
+\c@maxitems=\count338
+\c@minitems=\count339
+\c@citecounter=\count340
+\c@maxcitecounter=\count341
+\c@savedcitecounter=\count342
+\c@uniquelist=\count343
+\c@uniquename=\count344
+\c@refsection=\count345
+\c@refsegment=\count346
+\c@maxextratitle=\count347
+\c@maxextratitleyear=\count348
+\c@maxextraname=\count349
+\c@maxextradate=\count350
+\c@maxextraalpha=\count351
+\c@abbrvpenalty=\count352
+\c@highnamepenalty=\count353
+\c@lownamepenalty=\count354
+\c@maxparens=\count355
+\c@parenlevel=\count356
+\blx@tempcnta=\count357
+\blx@tempcntb=\count358
+\blx@tempcntc=\count359
+\c@blx@maxsection=\count360
+\blx@maxsegment@0=\count361
+\blx@notetype=\count362
+\blx@parenlevel@text=\count363
+\blx@parenlevel@foot=\count364
+\blx@sectionciteorder@0=\count365
+\blx@sectionciteorderinternal@0=\count366
+\blx@entrysetcounter=\count367
+\blx@biblioinstance=\count368
+\labelnumberwidth=\skip77
+\labelalphawidth=\skip78
+\biblabelsep=\skip79
+\bibitemsep=\skip80
+\bibnamesep=\skip81
+\bibinitsep=\skip82
+\bibparsep=\skip83
+\bibhang=\skip84
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count357
-\c@maxcomprange=\count358
-\c@mincompwidth=\count359
+\c@mincomprange=\count369
+\c@maxcomprange=\count370
+\c@mincompwidth=\count371
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (D:\Gerardo\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
@@ -282,98 +353,98 @@ File: apa.dbx 2022/06/22 v9.16 APA biblatex style data model
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count360
-\c@savedafterword=\count361
-\c@annotator=\count362
-\c@savedannotator=\count363
-\c@author=\count364
-\c@savedauthor=\count365
-\c@bookauthor=\count366
-\c@savedbookauthor=\count367
-\c@commentator=\count368
-\c@savedcommentator=\count369
-\c@editor=\count370
-\c@savededitor=\count371
-\c@editora=\count372
-\c@savededitora=\count373
-\c@editorb=\count374
-\c@savededitorb=\count375
-\c@editorc=\count376
-\c@savededitorc=\count377
-\c@foreword=\count378
-\c@savedforeword=\count379
-\c@holder=\count380
-\c@savedholder=\count381
-\c@introduction=\count382
-\c@savedintroduction=\count383
-\c@namea=\count384
-\c@savednamea=\count385
-\c@nameb=\count386
-\c@savednameb=\count387
-\c@namec=\count388
-\c@savednamec=\count389
-\c@translator=\count390
-\c@savedtranslator=\count391
-\c@shortauthor=\count392
-\c@savedshortauthor=\count393
-\c@shorteditor=\count394
-\c@savedshorteditor=\count395
-\c@narrator=\count396
-\c@savednarrator=\count397
-\c@execproducer=\count398
-\c@savedexecproducer=\count399
-\c@execdirector=\count400
-\c@savedexecdirector=\count401
-\c@with=\count402
-\c@savedwith=\count403
-\c@labelname=\count404
-\c@savedlabelname=\count405
-\c@institution=\count406
-\c@savedinstitution=\count407
-\c@lista=\count408
-\c@savedlista=\count409
-\c@listb=\count410
-\c@savedlistb=\count411
-\c@listc=\count412
-\c@savedlistc=\count413
-\c@listd=\count414
-\c@savedlistd=\count415
-\c@liste=\count416
-\c@savedliste=\count417
-\c@listf=\count418
-\c@savedlistf=\count419
-\c@location=\count420
-\c@savedlocation=\count421
-\c@organization=\count422
-\c@savedorganization=\count423
-\c@origlocation=\count424
-\c@savedoriglocation=\count425
-\c@origpublisher=\count426
-\c@savedorigpublisher=\count427
-\c@publisher=\count428
-\c@savedpublisher=\count429
-\c@language=\count430
-\c@savedlanguage=\count431
-\c@origlanguage=\count432
-\c@savedoriglanguage=\count433
-\c@citation=\count434
-\c@savedcitation=\count435
-\c@pageref=\count436
-\c@savedpageref=\count437
-\shorthandwidth=\skip82
-\shortjournalwidth=\skip83
-\shortserieswidth=\skip84
-\shorttitlewidth=\skip85
-\shortauthorwidth=\skip86
-\shorteditorwidth=\skip87
-\locallabelnumberwidth=\skip88
-\locallabelalphawidth=\skip89
-\localshorthandwidth=\skip90
-\localshortjournalwidth=\skip91
-\localshortserieswidth=\skip92
-\localshorttitlewidth=\skip93
-\localshortauthorwidth=\skip94
-\localshorteditorwidth=\skip95
+\c@afterword=\count372
+\c@savedafterword=\count373
+\c@annotator=\count374
+\c@savedannotator=\count375
+\c@author=\count376
+\c@savedauthor=\count377
+\c@bookauthor=\count378
+\c@savedbookauthor=\count379
+\c@commentator=\count380
+\c@savedcommentator=\count381
+\c@editor=\count382
+\c@savededitor=\count383
+\c@editora=\count384
+\c@savededitora=\count385
+\c@editorb=\count386
+\c@savededitorb=\count387
+\c@editorc=\count388
+\c@savededitorc=\count389
+\c@foreword=\count390
+\c@savedforeword=\count391
+\c@holder=\count392
+\c@savedholder=\count393
+\c@introduction=\count394
+\c@savedintroduction=\count395
+\c@namea=\count396
+\c@savednamea=\count397
+\c@nameb=\count398
+\c@savednameb=\count399
+\c@namec=\count400
+\c@savednamec=\count401
+\c@translator=\count402
+\c@savedtranslator=\count403
+\c@shortauthor=\count404
+\c@savedshortauthor=\count405
+\c@shorteditor=\count406
+\c@savedshorteditor=\count407
+\c@narrator=\count408
+\c@savednarrator=\count409
+\c@execproducer=\count410
+\c@savedexecproducer=\count411
+\c@execdirector=\count412
+\c@savedexecdirector=\count413
+\c@with=\count414
+\c@savedwith=\count415
+\c@labelname=\count416
+\c@savedlabelname=\count417
+\c@institution=\count418
+\c@savedinstitution=\count419
+\c@lista=\count420
+\c@savedlista=\count421
+\c@listb=\count422
+\c@savedlistb=\count423
+\c@listc=\count424
+\c@savedlistc=\count425
+\c@listd=\count426
+\c@savedlistd=\count427
+\c@liste=\count428
+\c@savedliste=\count429
+\c@listf=\count430
+\c@savedlistf=\count431
+\c@location=\count432
+\c@savedlocation=\count433
+\c@organization=\count434
+\c@savedorganization=\count435
+\c@origlocation=\count436
+\c@savedoriglocation=\count437
+\c@origpublisher=\count438
+\c@savedorigpublisher=\count439
+\c@publisher=\count440
+\c@savedpublisher=\count441
+\c@language=\count442
+\c@savedlanguage=\count443
+\c@origlanguage=\count444
+\c@savedoriglanguage=\count445
+\c@citation=\count446
+\c@savedcitation=\count447
+\c@pageref=\count448
+\c@savedpageref=\count449
+\shorthandwidth=\skip85
+\shortjournalwidth=\skip86
+\shortserieswidth=\skip87
+\shorttitlewidth=\skip88
+\shortauthorwidth=\skip89
+\shorteditorwidth=\skip90
+\locallabelnumberwidth=\skip91
+\locallabelalphawidth=\skip92
+\localshorthandwidth=\skip93
+\localshortjournalwidth=\skip94
+\localshortserieswidth=\skip95
+\localshorttitlewidth=\skip96
+\localshortauthorwidth=\skip97
+\localshorteditorwidth=\skip98
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
  (D:\Gerardo\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
@@ -383,19 +454,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (D:\Gerardo\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
-\c@textcitecount=\count438
-\c@textcitetotal=\count439
-\c@textcitemaxnames=\count440
-\c@biburlbigbreakpenalty=\count441
-\c@biburlbreakpenalty=\count442
-\c@biburlnumpenalty=\count443
-\c@biburlucpenalty=\count444
-\c@biburllcpenalty=\count445
-\biburlbigskip=\muskip17
-\biburlnumskip=\muskip18
-\biburlucskip=\muskip19
-\biburllcskip=\muskip20
-\c@smartand=\count446
+\c@textcitecount=\count450
+\c@textcitetotal=\count451
+\c@textcitemaxnames=\count452
+\c@biburlbigbreakpenalty=\count453
+\c@biburlbreakpenalty=\count454
+\c@biburlnumpenalty=\count455
+\c@biburlucpenalty=\count456
+\c@biburllcpenalty=\count457
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count458
 )
 Package biblatex Info: Trying to load bibliography style 'apa'...
 Package biblatex Info: ... file 'apa.bbx' found.
@@ -405,8 +476,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (D:\Gerardo\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count447
-\c@bbx:relatedtotal=\count448
+\c@bbx:relatedcount=\count459
+\c@bbx:relatedtotal=\count460
 )
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defined, overwriting.
 Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already defined, overwriting.
@@ -446,8 +517,8 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2022-07-04 L3 programming layer (loader) 
  (D:\Gerardo\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count449
-\l__pdf_internal_box=\box52
+\l__color_backend_stack_int=\count461
+\l__pdf_internal_box=\box54
 ))
 Package biblatex Info: ... and expl3
 (biblatex)             2022-07-04 L3 programming layer (loader) 
@@ -468,20 +539,20 @@ LaTeX Info: Redefining \% on input line 9.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -517,21 +588,21 @@ LaTeX Font Info:    ... okay on input line 19.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 19.
-LaTeX Info: Redefining \% on input line 19.
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
 (D:\Gerardo\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count450
-\scratchdimen=\dimen153
-\scratchbox=\box53
-\nofMPsegments=\count451
-\nofMParguments=\count452
-\everyMPshowfont=\toks27
-\MPscratchCnt=\count453
-\MPscratchDim=\dimen154
-\MPnumerator=\count454
-\makeMPintoPDFobject=\count455
-\everyMPtoPDFconversion=\toks28
+\scratchcounter=\count462
+\scratchdimen=\dimen162
+\scratchbox=\box55
+\nofMPsegments=\count463
+\nofMParguments=\count464
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count465
+\MPscratchDim=\dimen163
+\MPnumerator=\count466
+\makeMPintoPDFobject=\count467
+\everyMPtoPDFconversion=\toks33
 ) (D:\Gerardo\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -560,45 +631,47 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (d:\Gerardo\Documents\Control\pest-killer-drone-project\documentation\build\main.bbl)
-Package biblatex Info: Reference section=0 on input line 19.
-Package biblatex Info: Reference segment=0 on input line 19.
+Package biblatex Info: Reference section=0 on input line 22.
+Package biblatex Info: Reference segment=0 on input line 22.
 <pictures/itesm-logo.png, id=1, 1606.0pt x 422.57875pt>
 File: pictures/itesm-logo.png Graphic file (type png)
 <use pictures/itesm-logo.png>
-Package pdftex.def Info: pictures/itesm-logo.png  used on input line 22.
+Package pdftex.def Info: pictures/itesm-logo.png  used on input line 25.
 (pdftex.def)             Requested size: 289.07999pt x 76.06088pt.
  [1
 
 {C:/Users/Gerardo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./pictures/itesm-logo.png>]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 65.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 65.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 65.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
+ (D:\Gerardo\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
+ (D:\Gerardo\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 File: pictures/itesm-logo.png Graphic file (type png)
 <use pictures/itesm-logo.png>
-Package pdftex.def Info: pictures/itesm-logo.png  used on input line 66.
+Package pdftex.def Info: pictures/itesm-logo.png  used on input line 69.
 (pdftex.def)             Requested size: 72.26999pt x 19.01521pt.
  [1]
 File: pictures/itesm-logo.png Graphic file (type png)
 <use pictures/itesm-logo.png>
-Package pdftex.def Info: pictures/itesm-logo.png  used on input line 78.
+Package pdftex.def Info: pictures/itesm-logo.png  used on input line 81.
 (pdftex.def)             Requested size: 72.26999pt x 19.01521pt.
  [2]
 File: pictures/itesm-logo.png Graphic file (type png)
 <use pictures/itesm-logo.png>
-Package pdftex.def Info: pictures/itesm-logo.png  used on input line 92.
+Package pdftex.def Info: pictures/itesm-logo.png  used on input line 95.
 (pdftex.def)             Requested size: 72.26999pt x 19.01521pt.
  [3]
 File: pictures/itesm-logo.png Graphic file (type png)
 <use pictures/itesm-logo.png>
-Package pdftex.def Info: pictures/itesm-logo.png  used on input line 92.
+Package pdftex.def Info: pictures/itesm-logo.png  used on input line 95.
 (pdftex.def)             Requested size: 72.26999pt x 19.01521pt.
  [4]
 File: pictures/itesm-logo.png Graphic file (type png)
 <use pictures/itesm-logo.png>
-Package pdftex.def Info: pictures/itesm-logo.png  used on input line 94.
+Package pdftex.def Info: pictures/itesm-logo.png  used on input line 97.
 (pdftex.def)             Requested size: 72.26999pt x 19.01521pt.
  [5]
 This exam contains 0 questions with 0 parts, 0 subparts, and 0 subsubparts.
@@ -612,15 +685,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13589 strings out of 478338
- 253820 string characters out of 2845135
- 1080823 words of memory out of 3000000
- 31908 multiletter control sequences out of 15000+600000
- 475818 words of font info for 49 fonts, out of 8000000 for 9000
+ 14412 strings out of 478338
+ 265087 string characters out of 2845135
+ 1092572 words of memory out of 3000000
+ 32699 multiletter control sequences out of 15000+600000
+ 477727 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,14n,68p,1244b,2811s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\Gerardo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on d:\Gerardo\Documents\Control\pest-killer-drone-project\documentation\build\main.pdf (6 pages, 229269 bytes).
+Output written on d:\Gerardo\Documents\Control\pest-killer-drone-project\documentation\build\main.pdf (6 pages, 229232 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
