@@ -27,7 +27,7 @@ Dentro de la carpeta de documentación se encuentran los siguientes archivos:
 - La carpeta [``build``](documentation/build) contiene el archivo [``main.pdf``](documentation/build/main.pdf) que corresponde al documento PDF de documentación.
 ### Simulación
 
-La simulación está construida en MATLAB®/Simulink™ y está conformada por un Live Script de MATLAB® [``drone_parameters.mlx``](simulation/drone_parameters.mlx) que contiene los parámetros y condiciones iniciales para ejecutar la simulación, así como la ejecución del programa en Simulink™ [``drone_control_model.slx``](simulation/drone_control_model.slx) y las gráficas de salida.
+La simulación está construida en MATLAB®/Simulink™ y está conformada por un Live Script de MATLAB® [``drone_parameters.mlx``](simulation/drone_parameters.mlx) que contiene los parámetros y condiciones iniciales para ejecutar la simulación, así como la ejecución del programa en Simulink™ [``drone_control_model.slx``](simulation/drone_control_model.slx) y las gráficas de salida. Se requiere descargar ambos archivos y ejecutarlos en el entorno de MATLAB®/Simulink™.
 
 El Live Script contiene las siguientes secciones:
 
