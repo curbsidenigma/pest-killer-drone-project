@@ -27,13 +27,44 @@ Dentro de la carpeta de documentación se encuentran los siguientes archivos:
 - La carpeta [``build``](documentation/build) contiene el archivo [``main.pdf``](documentation/build/main.pdf) que corresponde al documento PDF de documentación.
 ### Simulación
 
-[En proceso de actualización]
+La simulación está construida en MATLAB®/Simulink™ y está conformada por un Live Script de MATLAB® [``drone_parameters.mlx``](simulation/drone_parameters.mlx) que contiene los parámetros y condiciones iniciales para ejecutar la simulación, así como la ejecución del programa en Simulink™ [``drone_control_model.slx``](simulation/drone_control_model.slx) y las gráficas de salida.
+
+El Live Script contiene las siguientes secciones:
+
+- Limpieza del workspace.
+- Definición de constantes generales.
+- Definición de configuración inicial (ángulos de Euler iniciales y altura inicial del dron).
+- Definición de la configuración deseada (ángulos de Euler deseados y altura deseada del dron).
+- Ejecución de la simulación.
+- Gráficas de posición lineal del dron en el espacio $xyz$, y $x$, $y$, $z$, $\phi$, $\theta$ y $\psi$ con respecto al tiempo.
+
+Algunas capturas del programa en Simulink™ se presentan a continuación:
+
+- Diagrama de bloques principal.
+
+![Diagrama de bloques principal](documentation/pictures/block-main.png)
+
+- Diagrama de bloques del sistema de control.
+
+![Diagrama de bloques del sistema de control](documentation/pictures/block-control-system.png)
+
+- Diagrama de bloques del control de torque.
+
+![Diagrama de bloques del control de torque](documentation/pictures/block-torque-control-system.png)
+
+- Diagrama de bloques del control de velocidad angular.
+
+![Diagrama de bloques del control de velocidad angular](documentation/pictures/block-angular-velocity-model.png)
+
+- Diagrama de bloques del modelo del dron.
+
+![Diagrama de bloques del modelo del dron](documentation/pictures/block-drone-model.png)
 
 ### Aplicación
-[En proceso de actualización]
+El proyecto tiene como trabajo futuro la implementación de la aplicación en el sistema físico del dron.
 
 ## Instalación
-Este proyecto utiliza [LaTeX](https://www.latex-project.org/), [MATLAB](https://www.mathworks.com/products/matlab.html) y [Python](https://www.python.org/). Son necesarios para la ejecución del proyecto, se recomienda consultarlos si no se encuentran instalados localmente.
+Este proyecto utiliza [LaTeX](https://www.latex-project.org/), [MATLAB®/Simulink™](https://www.mathworks.com/products/matlab.html) y [Python](https://www.python.org/). Son necesarios para la ejecución del proyecto, se recomienda consultarlos si no se encuentran instalados localmente.
 
 ### Requisitos de LaTeX
 Este proyecto emplea los siguientes paquetes de LaTeX:
