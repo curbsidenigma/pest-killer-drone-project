@@ -318,6 +318,32 @@
       \verb 10.3390/agronomy8090187
       \endverb
     \endentry
+    \entry{luukkonen-2011}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=810a8c9303e23de496764e359030e52e}{%
+           family={Luukkonen},
+           familyi={L\bibinitperiod},
+           given={Teppo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{810a8c9303e23de496764e359030e52e}
+      \strng{fullhash}{810a8c9303e23de496764e359030e52e}
+      \strng{bibnamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authorbibnamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authornamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authorfullhash}{810a8c9303e23de496764e359030e52e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{School of Science}
+      \field{title}{Modelling and control of a quadcopter}
+      \field{year}{2011}
+    \endentry
     \entry{mokhtari-2020}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=b518c28f563f8dc56f261a52866f48dc}{%
@@ -1623,6 +1649,32 @@
       \verb{doi}
       \verb 10.3390/agronomy8090187
       \endverb
+    \endentry
+    \entry{luukkonen-2011}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=810a8c9303e23de496764e359030e52e}{%
+           family={Luukkonen},
+           familyi={L\bibinitperiod},
+           given={Teppo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{810a8c9303e23de496764e359030e52e}
+      \strng{fullhash}{810a8c9303e23de496764e359030e52e}
+      \strng{bibnamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authorbibnamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authornamehash}{810a8c9303e23de496764e359030e52e}
+      \strng{authorfullhash}{810a8c9303e23de496764e359030e52e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{School of Science}
+      \field{title}{Modelling and control of a quadcopter}
+      \field{year}{2011}
     \endentry
     \entry{mokhtari-2020}{article}{}
       \name{author}{3}{}{%

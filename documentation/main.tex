@@ -88,7 +88,7 @@
 
     \section{Metodolog\'ia}\label{sec3}
         \subsection{Modelo Matem\'atico del Quadc\'optero}\label{sec3.1}
-        La estructura del quadc\'optero se presenta en la Figura \ref{fig:drone-model}, incluyendo las velocidades angulares, torques y fuerzas accionadas por los cuatro motores. Por cuestiones de simplificaci\'on, se enumeran del 1 al 4.
+        De acuerdo con \textcite{luukkonen-2011}, la estructura del quadc\'optero se presenta en la Figura \ref{fig:drone-model}, incluyendo las velocidades angulares, torques y fuerzas accionadas por los cuatro motores. Por cuestiones de simplificaci\'on, se enumeran del 1 al 4.
 
         \begin{figure}[ht]
             \centering
@@ -253,6 +253,7 @@
                     T \\
                 \end{array} 
             }\right],
+            \label{eq:7}
         \end{align}
         \begin{equation}
             \boldsymbol{\tau}_B = 
@@ -260,7 +261,7 @@
                 \begin{array}{c}
                     \tau_\phi \\
                     \tau_\theta \\
-                    \tau_psi \\
+                    \tau_\psi \\
                 \end{array} 
             }\right] = 
             \left[{
@@ -270,6 +271,7 @@
                     \sum_{i = 1}^{4}\tau_{M_i} \\
                 \end{array} 
             }\right]
+            \label{eq:8}
         \end{equation}
         donde $l$ es la distancia entre el motor y el centro de masa del quadc\'optero. Debido a que este se considera un cuerpo rígido, las ecuaciones de movimiento de Newton-Euler son usadas para describir su dinámica. En el marco de referencia del cuerpo, la fuerza requerida para la aceleraci\'on de una masa $m\dot{\boldsymbol{V}}_B$ y la fuerza centr\'ifuga $\boldsymbol{\nu}\times(m\boldsymbol{V}_B)$ son iguales a la gravedad $\boldsymbol{R}^T\boldsymbol{G}$ y la fuerza total de empuje de los motores $\boldsymbol{T}_B$, teniendo entonces que
 
@@ -349,9 +351,9 @@
                 }\right] = 
                 \left[{
                     \begin{array}{c}
-                        (I_{yy} - I{zz})qr/I_{xx} \\
-                        (I_{zz} - I{xx})qr/I_{yy} \\
-                        (I_{xx} - I{yy})qr/I_{xx} \\
+                        (I_{yy} - I_{zz})qr/I_{xx} \\
+                        (I_{zz} - I_{xx})qr/I_{yy} \\
+                        (I_{xx} - I_{yy})qr/I_{xx} \\
                     \end{array} 
                 }\right] - I_r
                 \left[{
@@ -370,20 +372,44 @@
                 }\right],
             \end{gathered}
         \end{equation}
-        donde $\omega_{\Gamma} = \omega_1 - \omega_2 + \omega3 - \omega4$. Las aceleraciones angulares en el marco de referencia son atraídas de las aceleraciones con la transformación matricial $\boldsymbol{W}_{\eta}^{-1}$ y su derivada en el tiempo
+        donde $\omega_{\Gamma} = \omega_1 - \omega_2 + \omega3 - \omega4$. Este modelo es implementado en MATLAB®/Simulink™ y a continuación se explica su sistema de control.
 
-        \begin{align}
-            \boldsymbol{\ddot{\eta}} &= \frac{d}{dt}(\boldsymbol{W_{\eta}^{-1}}\boldsymbol{\nu}) = \frac{d}{dt}(\boldsymbol{W}_{\eta}^{-1})\boldsymbol{\nu} + \boldsymbol{W_{\eta}^{-1}\boldsymbol{\dot{\nu}}} \\ &= 
-            \left[{
-                \begin{array}{ccc}
-                    0 & \dot{\phi}\cos{\phi}\tan{\theta} + \dot{\theta}\sin{\phi}/\cos^2{\theta} & -\dot{\phi}\sin{\phi}\cos{\theta} + \dot{\theta}\cos{\phi}/\cos^2{\theta} \\
-                    0 & -\dot{\phi}\sin{\phi} & -\dot{\phi}\cos{\phi} \\
-                    0 & \dot{\phi}\cos{\phi}\cos{\theta} + \dot{\phi}\sin{\phi}\tan{\theta}/\cos{\theta} & -\dot{\phi}\sin{\phi}/\cos{\theta} + \dot{\theta}\cos{\phi}\tan{\theta}/\cos{\theta} \\
-                \end{array} 
-            }\right] \boldsymbol{\nu} + \boldsymbol{W}_{\eta}^{-1}\boldsymbol{\dot{\nu}}.
-        \end{align}
+        \subsection{Sistema de Control del Quadc\'optero}\label{sec3.2}
+        Ahora bien, para estabilizar el quadc\'optero se propone emplear un controlador PID cuya estructura se define como
+        \begin{equation}
+            u(t) = K_Pe(t) + K_I\int_0^t e(\tau) d\tau + K_D \frac{de(t)}{dt}
+        \end{equation}
+        donde $u(t)$ es la salida del controlador, $e(t)$ se define como el error, es decir, la diferencia entre el estado deseado y el estado presente. Los parámetros $K_P$, $K_I$ y $K_D$ son los coeficientes proporcional, integral y derivativo que ayudar\'an a sintonizar el controlador PID, respectivamente. Para realizar el modelo, se debe considerar que a pesar de que se tienen seis estados, siendo estos tres posiciones y tres \'angulos, se consideran \'unicamente cuatro entradas de control, que corresponden a las velocidades angulares de los cuatro motores. La fuerza de empuje total $T$ afecta la aceleración en la dirección del eje $z$ y mantiene al dron en el aire. Asimismo, los torques afectan la aceleración de los ángulos roll, pitch y jaw. Habiendo descrito esto, la propuesta del controlador se describe como
 
-        La simulación de bloques en MATLAB®/Simulink™ se muestra a continuación en la Figura [ref].
+        \begin{equation}
+            \begin{gathered}
+                T = \left[g + K_{z,P}\;e_z + K_{z,I}\int_0^t{e_z\;d\tau} + K_{z,D}\;\dot{e_z}\right]\cdot\frac{m}{\cos{\phi}\cos{\theta}} 
+                \\
+                \tau_{\phi} = \left[K_{\phi,P}\;e_\phi + K_{\phi,I}\int_0^t{e_\phi\;d\tau} + K_{\phi,D}\;\dot{\phi_z}\right]\cdot I_{xx} 
+                \\
+                \tau_{\theta} = \left[K_{\theta,P}\;e_\theta + K_{\theta,I}\int_0^t{e_\theta\;d\tau} + K_{\theta,D}\;\dot{e_\theta}\right]\cdot I_{yy} 
+                \\
+                \tau_{\psi} = \left[K_{\psi,P}\;e_\psi + K_{\psi,I}\int_0^t{e_\psi\;d\tau} + K_{\psi,D}\;\dot{e_\psi}\right]\cdot I_{zz} \\
+            \end{gathered}
+            \label{eq:13}
+        \end{equation}
+
+        La velocidad angular de los motores es despu\'es calculada con las Ecuaciones (\ref{eq:7}) y (\ref{eq:8}) con los valores obtenidos en la ecuaci\'on (\ref{eq:13}) de la siguiente manera:
+
+        \begin{equation}
+            \begin{gathered}
+                \omega_1^2 = \frac{T}{4k} - \frac{\tau_\theta}{2kl} - \frac{\tau_\psi}{4b}
+                \\
+                \omega_2^2 = \frac{T}{4k} - \frac{\tau_\phi}{2kl} + \frac{\tau_\psi}{4b}
+                \\
+                \omega_3^2 = \frac{T}{4k} + \frac{\tau_\theta}{2kl} - \frac{\tau_\psi}{4b}
+                \\
+                \omega_4^2 = \frac{T}{4k} + \frac{\tau_\phi}{2kl} + \frac{\tau_\psi}{4b}
+            \end{gathered}
+        \end{equation}
+
+        Este control es implementado en MATLAB®/Simulink™ junto con el modelo anterior.
+
     \section{Resultados}\label{sec4}
 
     \section{Conclusiones}\label{sec5}

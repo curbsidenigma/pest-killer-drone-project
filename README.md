@@ -80,6 +80,10 @@ Este proyecto emplea los siguientes paquetes de LaTeX:
 #### Figuras
 - [``graphicx``](https://www.ctan.org/pkg/graphicx) como soporte mejorado para gráficos.
 
+### Matemáticas
+- [``amsmath``](https://www.ctan.org/pkg/amsmath) para composición, estructura y formato matemático.
+- [``amsfonts``](https://www.ctan.org/pkg/amsfonts) para fuentes de la American Mathematical Society.
+
 #### Citación
 - [``biblatex``](https://www.ctan.org/pkg/biblatex) para emplear autocitación en formato APA.
 

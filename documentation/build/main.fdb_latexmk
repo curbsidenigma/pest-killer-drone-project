@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber build/main"] 1670044290 "build/main.bcf" "build/main.bbl" "build/main" 1670044563
-  "build/main.bcf" 1670044563 127054 7c59368b4aed263eead8dcff906014e0 "pdflatex"
+["biber build/main"] 1670135156 "build/main.bcf" "build/main.bbl" "build/main" 1670136350
+  "build/main.bcf" 1670136350 127194 9f69b144a8b4e1042456013d43bbf48b "pdflatex"
   "main.bib" 1670044044 11562 9e78ed8d797863a6d6ca5b93e745316a ""
   (generated)
   "build/main.bbl"
   "build/main.blg"
-["pdflatex"] 1670044560 "d:/Gerardo/Documents/Control/pest-killer-drone-project/documentation/main.tex" "build/main.pdf" "main" 1670044563
+["pdflatex"] 1670136347 "d:/Gerardo/Documents/Control/pest-killer-drone-project/documentation/main.tex" "build/main.pdf" "main" 1670136350
   "C:/Users/Gerardo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666484014 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Gerardo/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1095.pk" 1670043786 12668 b850a012e09a817dc5427823d865ec91 ""
   "C:/Users/Gerardo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1665447672 10321526 7dab5fcd247813de31c7b4a989b04d35 ""
@@ -43,7 +43,6 @@
   "D:/Gerardo/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247593066 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247593066 32080 340ef9bf63678554ee606688e7b5339d ""
-  "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1247593066 32166 b0c356b15f19587482a9217ce1d8fa67 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb" 1247593067 36554 b67dc2cfa451409e100b3fcf5f506509 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1247593067 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb" 1247593067 30251 6afa5cb1d0204815a708a080681d4674 ""
@@ -58,8 +57,6 @@
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1247593067 32626 5abc8bb2f28aa647d4c70f8ea38cc0d3 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247593067 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247593067 36118 fad905eba93cff5bce1e185fe980a177 ""
-  "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb" 1247593071 29407 8c6dfc0f2d83bfc4807c3b1dc90ef23e ""
-  "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb" 1247593070 35479 2cca68718f15872e7cce1a8f6033b99b ""
   "D:/Gerardo/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1247593073 34694 870c211f62cb72718a00e353f14f254d ""
   "D:/Gerardo/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "D:/Gerardo/Programs/MiKTeX/tex/generic/babel/babel.sty" 1656232834 151254 6babc5fd35bcaab99970dd3ba17ef5b3 ""
@@ -120,11 +117,11 @@
   "D:/Gerardo/Programs/MiKTeX/tex/latex/logreq/logreq.def" 1280937415 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "D:/Gerardo/Programs/MiKTeX/tex/latex/logreq/logreq.sty" 1280937415 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "D:/Gerardo/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "build/main.aux" 1670044563 8455 2200dcb533cd48d5d3592697a52d3ddf "pdflatex"
-  "build/main.bbl" 1670044293 109721 269c5deddad9272aa7a645b2d51fff77 "biber build/main"
-  "build/main.run.xml" 1670044563 2353 a6bb2ca458a0ca3b95653e754a2c7c79 "pdflatex"
-  "d:/Gerardo/Documents/Control/pest-killer-drone-project/documentation/main.tex" 1670044560 26291 ce499339a6b9fdd2cbc96285b9193e78 ""
-  "main.tex" 1670044560 26291 ce499339a6b9fdd2cbc96285b9193e78 ""
+  "build/main.aux" 1670136350 8991 f3b048563bbcec9e0638da6638e7a0af "pdflatex"
+  "build/main.bbl" 1670135160 111939 0c6ae1150579c895c29213261ef8bd72 "biber build/main"
+  "build/main.run.xml" 1670136350 2353 a6bb2ca458a0ca3b95653e754a2c7c79 "pdflatex"
+  "d:/Gerardo/Documents/Control/pest-killer-drone-project/documentation/main.tex" 1670136346 28081 b955203912c88d913ac638027d45e455 ""
+  "main.tex" 1670136346 28081 b955203912c88d913ac638027d45e455 ""
   "pictures/drone-model.png" 1669952717 101731 5c7273e90bcb119ac892d8bb4885e998 ""
   "pictures/itesm-logo.png" 1666478792 63258 086cb814d1b1bfe06a86da0f2acfd55b ""
   (generated)
